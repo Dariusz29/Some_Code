@@ -1,5 +1,5 @@
 # create grid to game in O and X
-from turtle import left
+
 from numpy import random
 
  # positions 
@@ -44,6 +44,7 @@ class Body():
 class Check():
     def __init__(self):
         super().__init__(Body)
+        
 
     def choice_pos(self):
 
@@ -59,7 +60,7 @@ class Check():
         self.right_down = bool(a for a in pos_board.keys() if pos_board[9] != ["X"] or ["O"])
 
     def check_pos(self):
-        if self.empty == True:
+        if empty == True:
             print("")
         elif self.left_up == True:
             print("")
@@ -84,15 +85,68 @@ class Check():
 
 class Game():
 
-    list = ["X","O"]
-    def _init_(self,_pos):
+    def _init_(self,_pos,):
         self._pos = _pos
-
+        
     def choice(self):
-        _pos = ""
-        for i in range(1):
+        list = ["X","O"]
+        _pos_ = [1,2,3,4,5,6,7,8,9]
+
+        pos = [empty,left_up,left_mid,left_down,center_up,center,center_down,right_up,right_mid,right_down]
+
+        for i in range(9):
             ban = random.choice(list)
-            if _pos in random.choice(pos_board):
-                _pos
+            _pos = random.choice(_pos_)
+            if pos[0]:
+                pos_board[_pos].append(ban)
+                print(pos_board)
+                _pos_.remove(_pos)
+
+            elif pos[1] and _pos:
+                pos_board[_pos].append(ban)
+                print(pos_board)
+                _pos_.remove(_pos)
+
+            elif pos[2] and _pos:
+                pos_board[_pos].append(ban)
+                print(pos_board)
+                _pos_.remove(_pos)
+
+            elif pos[3] and _pos:
+                pos_board[_pos].append(ban)
+                print(pos_board)
+                _pos_.remove(_pos)
+
+            elif pos[4] and _pos:
+                pos_board[_pos].append(ban)
+                print(pos_board)
+                _pos_.remove(_pos)
+
+            elif pos[5] and _pos:
+                pos_board[_pos].append(ban)
+                print(pos_board)
+                _pos_.remove(_pos)
+
+            elif pos[6] and _pos:
+                pos_board[_pos].append(ban)
+                print(pos_board)
+                _pos_.remove(_pos)
+
+            elif pos[7] and _pos:
+                pos_board[_pos].append(ban)
+                print(pos_board)
+                _pos_.remove(_pos)
+
+            elif pos[8] and _pos:
+                pos_board[_pos].append(ban)
+                print(pos_board)
+                _pos_.remove(_pos)
+
+            elif pos[9] and _pos:
+                pos_board[_pos].append(ban)
+                print(pos_board)
+                _pos_.remove(_pos)
+
+                
             
-            if ban is "X":
+           
