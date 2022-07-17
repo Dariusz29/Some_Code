@@ -31,7 +31,7 @@ class Body():
     } 
 
     def __init__(self):
-        self.pos_board = pos_board
+        pass
         
 
     def board(self):
@@ -44,13 +44,6 @@ class Body():
 
             print()
 
-
-
-class Game():
-
-    def _init_(self,_pos,):
-        self._pos = _pos
-        
     def choice(self):
         list = ["X","O"]
         _pos_ = [1,2,3,4,5,6,7,8,9]
@@ -73,54 +66,45 @@ class Game():
             _pos = random.choice(_pos_)
             if pos[0]:
                 pos_board[_pos].append(ban)
-                print(pos_board)
                 _pos_.remove(_pos)
 
             elif pos[1] and _pos:
                 pos_board[_pos].append(ban)
-                print(pos_board)
                 _pos_.remove(_pos)
 
             elif pos[2] and _pos:
                 pos_board[_pos].append(ban)
-                print(pos_board)
                 _pos_.remove(_pos)
 
             elif pos[3] and _pos:
                 pos_board[_pos].append(ban)
-                print(pos_board)
                 _pos_.remove(_pos)
 
             elif pos[4] and _pos:
                 pos_board[_pos].append(ban)
-                print(pos_board)
                 _pos_.remove(_pos)
 
             elif pos[5] and _pos:
                 pos_board[_pos].append(ban)
-                print(pos_board)
                 _pos_.remove(_pos)
 
             elif pos[6] and _pos:
                 pos_board[_pos].append(ban)
-                print(pos_board)
                 _pos_.remove(_pos)
 
             elif pos[7] and _pos:
                 pos_board[_pos].append(ban)
-                print(pos_board)
                 _pos_.remove(_pos)
 
             elif pos[8] and _pos:
                 pos_board[_pos].append(ban)
-                print(pos_board)
                 _pos_.remove(_pos)
 
             elif pos[9] and _pos:
                 pos_board[_pos].append(ban)
-                print(pos_board)
                 _pos_.remove(_pos)
 
                 
             
            
+Body.choice(Body.board(0))
