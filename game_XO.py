@@ -30,58 +30,21 @@ class Body():
         9:[]
     } 
 
-    def __init__(self,x):
-        self.x = x
-
-    def board(self,x):
-        x = " "
-        for i in range(3):
-            pos_board = f'[{x}]' * 3
-            print(self.pos)
-
-
-
-class Check():
     def __init__(self):
-        super().__init__(Body)
+        self.pos_board = pos_board
         
 
-    def choice_pos(self):
+    def board(self):
+        
+        for i in range(1,4): 
 
-        self.empty = bool(a for a in pos_board.values() if a != [])
-        self.left_up = bool(a for a in pos_board.keys() if pos_board[1] != ["X"] or ["O"])
-        self.left_mid = bool(a for a in pos_board.keys() if pos_board[2] != ["X"] or ["O"])
-        self.left_down = bool(a for a in pos_board.keys() if pos_board[3] != ["X"] or ["O"])
-        self.center_up = bool(a for a in pos_board.keys() if pos_board[4] != ["X"] or ["O"])
-        self.center = bool(a for a in pos_board.keys() if pos_board[5] != ["X"] or ["O"])
-        self.center_down = bool(a for a in pos_board.keys() if pos_board[6] != ["X"] or ["O"])
-        self.right_up = bool(a for a in pos_board.keys() if pos_board[7] != ["X"] or ["O"])
-        self.right_mid = bool(a for a in pos_board.keys() if pos_board[8] != ["X"] or ["O"])
-        self.right_down = bool(a for a in pos_board.keys() if pos_board[9] != ["X"] or ["O"])
+            for j in range(1,4):
+                board = f'{pos_board[0 + j*i]}'
+                print(board, end= " ") 
 
-    def check_pos(self):
-        if empty == True:
-            print("")
-        elif self.left_up == True:
-            print("")
-        elif self.left_mid == True:
-            print("")
-        elif self.left_down == True:
-            print("")
-        elif self.center_up == True:
-            print("")
-        elif self.center == True:
-            print("")
-        elif self.center_down == True:
-             print("")
-        elif self.right_up == True:
-            print("")
-        elif self.right_mid == True:
-            print("")
-        elif self.right_down == True:
-            print("")
+            print()
 
-# Game 
+
 
 class Game():
 
@@ -92,8 +55,19 @@ class Game():
         list = ["X","O"]
         _pos_ = [1,2,3,4,5,6,7,8,9]
 
+        empty = bool(a for a in pos_board.values() if a != [])
+        left_up = bool(a for a in pos_board.keys() if pos_board[1] != ["X"] or ["O"])
+        left_mid = bool(a for a in pos_board.keys() if pos_board[2] != ["X"] or ["O"])
+        left_down = bool(a for a in pos_board.keys() if pos_board[3] != ["X"] or ["O"])
+        center_up = bool(a for a in pos_board.keys() if pos_board[4] != ["X"] or ["O"])
+        center = bool(a for a in pos_board.keys() if pos_board[5] != ["X"] or ["O"])
+        center_down = bool(a for a in pos_board.keys() if pos_board[6] != ["X"] or ["O"])
+        right_up = bool(a for a in pos_board.keys() if pos_board[7] != ["X"] or ["O"])
+        right_mid = bool(a for a in pos_board.keys() if pos_board[8] != ["X"] or ["O"])
+        right_down = bool(a for a in pos_board.keys() if pos_board[9] != ["X"] or ["O"])
         pos = [empty,left_up,left_mid,left_down,center_up,center,center_down,right_up,right_mid,right_down]
 
+       
         for i in range(9):
             ban = random.choice(list)
             _pos = random.choice(_pos_)
