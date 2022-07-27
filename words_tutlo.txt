@@ -1,54 +1,54 @@
-Encompass - obejmowaæ, obj¹æ, zawieraæ
-Storage - przechowywanie, magazynowaæ, sk³adowane, pamiêæ
+Encompass - obejmowaï¿½, objï¿½ï¿½, zawieraï¿½
+Storage - przechowywanie, magazynowaï¿½, skï¿½adowane, pamiï¿½ï¿½
 Infrastructure - infrastruktura, zaplecze
-Networking - sieæ, wspó³praca, po³¹czenie
-Enterprise - przedsiêbiorstwo, przeciêbiorczoœæ, firma, korporacja
+Networking - sieï¿½, wspï¿½praca, poï¿½ï¿½czenie
+Enterprise - przedsiï¿½biorstwo, przeciï¿½biorczoï¿½ï¿½, firma, korporacja
 Peripheral - obwodowy, peryferyjny
 Methodologies - metodologii, metody, metodyki
 Domain - domena, dziedzina, sferze
-Coin - ukuæ, wymyœliæ
-Advantage - zaleta, przewaga, korzyœæ, plus, atut
-Melt - stopiæ, topiæ, rozpuœciæ
-Boil - gotowaæ, zagotowaæ, wrzeæ
-Evaporate - odparowaæ, wyparowaæ
-Independent - niezale¿ny, samodzielny
+Coin - ukuï¿½, wymyï¿½liï¿½
+Advantage - zaleta, przewaga, korzyï¿½ï¿½, plus, atut
+Melt - stopiï¿½, topiï¿½, rozpuï¿½ciï¿½
+Boil - gotowaï¿½, zagotowaï¿½, wrzeï¿½
+Evaporate - odparowaï¿½, wyparowaï¿½
+Independent - niezaleï¿½ny, samodzielny
 Addict - narkoman
-Addicted - uzale¿niony
-Addiction - uzale¿nienie
+Addicted - uzaleï¿½niony
+Addiction - uzaleï¿½nienie
 Hardly - ledwo, trudno 
-Affectionate - czu³y, kochaj¹cy
+Affectionate - czuï¿½y, kochajï¿½cy
 Purring - mruczy, mruczenie
-Stroke - pog³askaæ
-Curl up - zwijaæ siê, kuliæ siê, zawin¹æ siê
-Longish - d³ugie
-Whizz - œmigaæ
-Slippery - œliski 
-Sewing(so³ing) machine - maszyna do szycia
-Alteration - zmiana, przebudowa, przeróbka 
-Suppose - przypuszczam, ¿e..., chyba, przypuœæmy, ¿e...
-Murderer - morderca, zabójca
-Ingredient - sk³adnik, element, substancja
-Departed(departyd) - odesz³y, zmar³y
+Stroke - pogï¿½askaï¿½
+Curl up - zwijaï¿½ siï¿½, kuliï¿½ siï¿½, zawinï¿½ï¿½ siï¿½
+Longish - dï¿½ugie
+Whizz - ï¿½migaï¿½
+Slippery - ï¿½liski 
+Sewing(soï¿½ing) machine - maszyna do szycia
+Alteration - zmiana, przebudowa, przerï¿½bka 
+Suppose - przypuszczam, ï¿½e..., chyba, przypuï¿½ï¿½my, ï¿½e...
+Murderer - morderca, zabï¿½jca
+Ingredient - skï¿½adnik, element, substancja
+Departed(departyd) - odeszï¿½y, zmarï¿½y
 Boarding - odprawy
-Delayed(dilejt) - opóŸniony, spóŸniony
+Delayed(dilejt) - opï¿½niony, spï¿½niony
 Gate change - zmiana bramki
 Cancelled - anulowany
 Final call - ostatnie wezwanie
 Rewarding - wynagrodzenie
-Demanding - wymagaj¹cy
-Inspiring - inspiruj¹cy
-Exhausting - wyczerpuj¹cy 
+Demanding - wymagajï¿½cy
+Inspiring - inspirujï¿½cy
+Exhausting - wyczerpujï¿½cy 
 Responsible for - odpowiedzialny za...
 In charge of - odpowiedzialny za ..., dowodzi
-Deal with - radziæ sobie z, poradziæ sobie z 
-Manage - zarz¹dzaæ, kierowaæ, prowadziæ
-Fairy - wró¿ka, bajka, czarodziejka
-Annoy - denerwuj¹cy, dra¿liwy, wkurzyæ, wkurzaæ
-Seem - wydawaæ siê, widaæ, wygl¹daæ
+Deal with - radziï¿½ sobie z, poradziï¿½ sobie z 
+Manage - zarzï¿½dzaï¿½, kierowaï¿½, prowadziï¿½
+Fairy - wrï¿½ka, bajka, czarodziejka
+Annoy - denerwujï¿½cy, draï¿½liwy, wkurzyï¿½, wkurzaï¿½
+Seem - wydawaï¿½ siï¿½, widaï¿½, wyglï¿½daï¿½
 Otherwise - inaczej, w przeciwnym razie 
-Really looking forward to seeing you! - naprawdê czekam na ciebie
-It's going to be so good to catch up finally - To bêdzie tak dobre, aby nastaæ na koniec
-An end of term report - sprawdzenie koñcowe
+Really looking forward to seeing you! - naprawdï¿½ czekam na ciebie
+It's going to be so good to catch up finally - To bï¿½dzie tak dobre, aby nastaï¿½ na koniec
+An end of term report - sprawdzenie koï¿½cowe
 Rarely - rzadko
 Seldom - rzadko, not often
 Often = frequently
@@ -62,58 +62,58 @@ Board game - any game in which you move objects around on a special board
 Stressed - worried and not able to relax
 Nap - a short sleep
 According - zgodnie, zgodny
-Hang out - posiedzieæ, przebywaæ, spotykaæ siê
+Hang out - posiedzieï¿½, przebywaï¿½, spotykaï¿½ siï¿½
 Auxiliary - pomocniczy, dodatkowy
-Emphasis(emfesis) - nacisk, podkreœlenia
-Annoying - wkurzaj¹ce, irytuj¹ce, uci¹¿liwy, nieznoœny	
-Unless - chyba, ¿e..., je¿eli nie
-Properly - odpowiednio, prawid³owo
-Wage(³ejcz) - wynagrodzenie, p³aca
-Related - powi¹zany
-Camel(kanol) - wielb³¹d 
-Spit - pluæ
-Resentful - ura¿ony, obra¿ony, odrzucony
-Harsh - surowy, ostry, szorstki, nie mi³y
-Quantity - liczba, iloœæ, sztuk, nak³ad
-Tick - kleszcz, tykaæ, znaczenie
-Radius(rejdious) - zasiêg, promieñ, obszar
+Emphasis(emfesis) - nacisk, podkreï¿½lenia
+Annoying - wkurzajï¿½ce, irytujï¿½ce, uciï¿½ï¿½liwy, nieznoï¿½ny	
+Unless - chyba, ï¿½e..., jeï¿½eli nie
+Properly - odpowiednio, prawidï¿½owo
+Wage(ï¿½ejcz) - wynagrodzenie, pï¿½aca
+Related - powiï¿½zany
+Camel(kanol) - wielbï¿½ï¿½d 
+Spit - pluï¿½
+Resentful - uraï¿½ony, obraï¿½ony, odrzucony
+Harsh - surowy, ostry, szorstki, nie miï¿½y
+Quantity - liczba, iloï¿½ï¿½, sztuk, nakï¿½ad
+Tick - kleszcz, tykaï¿½, znaczenie
+Radius(rejdious) - zasiï¿½g, promieï¿½, obszar
 Multiline annotation - adnotacja wieloliniowa
-Accompany - towarzyszyæ, oprowadziæ, do³aczyæ
-Properties - w³aœciwoœci
-Abbreviation = shortcut - skrót
-Refer - odnoœci siê, do³¹czyæ, odnieœæ siê
+Accompany - towarzyszyï¿½, oprowadziï¿½, doï¿½aczyï¿½
+Properties - wï¿½aï¿½ciwoï¿½ci
+Abbreviation = shortcut - skrï¿½t
+Refer - odnoï¿½ci siï¿½, doï¿½ï¿½czyï¿½, odnieï¿½ï¿½ siï¿½
 Residential - mieszkaniowy
-Steady - sta³y, stabilny, ci¹g³y
-Tight(Tajt) - cisany, napiêty, obcis³y, szczelny
-Cumbersome - uci¹¿liwy, k³opotliwy, nieporêczy
+Steady - staï¿½y, stabilny, ciï¿½gï¿½y
+Tight(Tajt) - cisany, napiï¿½ty, obcisï¿½y, szczelny
+Cumbersome - uciï¿½ï¿½liwy, kï¿½opotliwy, nieporï¿½czy
 Annual cost - roczny koszt
-Lend - po¿yczaæ, u¿yczaæ
-Prove(Pruw) - udowadniæ, okazaæ, dowieœæ
-Wisely (³ajsly)- m¹drze, rozs¹dnie, roztropnie
-Stick to - trzymaæ siê, postrzegaæ
-Genre(¿anr³a) - gatunek
-Impact - wp³ywaæ, wp³yw, skutek, uderzenie, znaczenie, dzia³anie
-Reschedule - przesun¹æ, umówiæ, przenieœæ, przek³adaæ, zmieniæ termin
-Receive - otrzymaæ, odbieraæ, uzyskaæ
-Afford - zap³aciæ, kupiæ, zapewniæ
-Doubt - zw¹tpiæ, w¹tpiæ ( I sometimes doubt in my skills and my ability or opportunity)
+Lend - poï¿½yczaï¿½, uï¿½yczaï¿½
+Prove(Pruw) - udowadniï¿½, okazaï¿½, dowieï¿½ï¿½
+Wisely (ï¿½ajsly)- mï¿½drze, rozsï¿½dnie, roztropnie
+Stick to - trzymaï¿½ siï¿½, postrzegaï¿½
+Genre(ï¿½anrï¿½a) - gatunek
+Impact - wpï¿½ywaï¿½, wpï¿½yw, skutek, uderzenie, znaczenie, dziaï¿½anie
+Reschedule - przesunï¿½ï¿½, umï¿½wiï¿½, przenieï¿½ï¿½, przekï¿½adaï¿½, zmieniï¿½ termin
+Receive - otrzymaï¿½, odbieraï¿½, uzyskaï¿½
+Afford - zapï¿½aciï¿½, kupiï¿½, zapewniï¿½
+Doubt - zwï¿½tpiï¿½, wï¿½tpiï¿½ ( I sometimes doubt in my skills and my ability or opportunity)
 Actively - aktywnie, czynnie, intesywnie
 Relatives(relatiws) - krewni, bliscy
-Investigate - zbadaæ, badaæ, przeanalizowaæ 
+Investigate - zbadaï¿½, badaï¿½, przeanalizowaï¿½ 
 Dimension - wymiar, rozmiar
-Exceeding - przekroczenie, powy¿ej
-Threshold - granica, pu³ap
-Therefore - dlatego , zatem, zwi¹zku z tym
-Obtain - uzyskaæ, uzyskiwaæ, zdobyæ, pozyskaæ, otrzymaæ
+Exceeding - przekroczenie, powyï¿½ej
+Threshold - granica, puï¿½ap
+Therefore - dlatego , zatem, zwiï¿½zku z tym
+Obtain - uzyskaï¿½, uzyskiwaï¿½, zdobyï¿½, pozyskaï¿½, otrzymaï¿½
 Whereas - podczas gdy, tymczasem
-Intend - zamierzaæ, zamierzyæ ( i intend to achieve my very goals at the year)
-Till you drop - do upad³ego, a¿ padniesz
-Shoplifter - z³odziej
-Combination - po³aczenie, kombinacja
+Intend - zamierzaï¿½, zamierzyï¿½ ( i intend to achieve my very goals at the year)
+Till you drop - do upadï¿½ego, aï¿½ padniesz
+Shoplifter - zï¿½odziej
+Combination - poï¿½aczenie, kombinacja
 Advantageous - korzystny
-Advantage - zaleta, korzyœæ
+Advantage - zaleta, korzyï¿½ï¿½
 Excessively - nadmiernie, zbyt, przesadnie
-Spree - sza³, szaleñstwo
+Spree - szaï¿½, szaleï¿½stwo
 TO DO A LARGE AMOUNT OF SHOPPING = TO SHOP TILL YOU DROP
 CONVEYOR BELT = A MOVING BELT THAT TRANSPORTS OBJECTS
 TO BE A PERFECT SIZE AND SHAPE FOR SOMEONE = TO FIL LIKE A GLOVE
@@ -124,14 +124,14 @@ TO APPLY A SIGNIFICANT AMOUNT OF PRESSURE ON A PROSPECTIVE BUYER = TO GIVE
 SOMEONE THE HARD SELL
 A PERSON WHO STEALS GOODS FROM A SHOP WHIE PRETENDING TO BE A CUSTOMER = 
 SHOPLIFTER
-OCTOPUS - oœmirnica
+OCTOPUS - oï¿½mirnica
 Ostery - ostryga
-Salmon - ³osoœ
+Salmon - ï¿½osoï¿½
 Scallop - przegrzebka
 Prawns - krewetki
 Lobster - homar
 Fiddle - skrzypce
-Clound nine - w œiódmym niebie
+Clound nine - w ï¿½iï¿½dmym niebie
 Criminal = a person who breaks the law
 Steal = to take something without the permission or knowledge of the owner and keep it
 Shake hands = greet each someone or say goodbye by briefly joining hands moving them 
@@ -140,177 +140,177 @@ Diet = an eating plan in which someone eats less food, or only particular types 
 because they want to become thinner or for medical reasons
 Series = a set of television or radio broadcasts on the same subject or using the same 
 characters but in different situations
-Briefly - krótko, pokrótce, zwiêŸle, pobie¿nie
-Arrangement - uk³ad, aran¿acja, umowa,ustalenie
+Briefly - krï¿½tko, pokrï¿½tce, zwiï¿½le, pobieï¿½nie
+Arrangement - ukï¿½ad, aranï¿½acja, umowa,ustalenie
 Permission - zgoda, pozwolenie, uprawnienie
 Thinner - chudszy
 Broadcast - transmisja, audycja, przekaz
 Naughty (nadi)- niegrzeczny, nieprzyzwoity, niesforny
-Loudly - g³oœno, donoœnie, hucznie
-Exhibit - wystawa, wystawiaæ, eksponat, wykazywaæ
+Loudly - gï¿½oï¿½no, donoï¿½nie, hucznie
+Exhibit - wystawa, wystawiaï¿½, eksponat, wykazywaï¿½
 Artefact - artefakt
-Antiquity(entik³iti) - staro¿ytnoœæ, antyk
+Antiquity(entikï¿½iti) - staroï¿½ytnoï¿½ï¿½, antyk
 Relic - relikt
-Plinth - postument, cokó³
-Mount - uchwyt, monta¿, zamontowaæ, montowaæ, mocowaæ
-Alcove - alkowa, wnêka, nisza
-Torso - tu³ów,tors, korpus, pierœ
-Sculpture - rzeŸba, pomnik, figura
+Plinth - postument, cokï¿½
+Mount - uchwyt, montaï¿½, zamontowaï¿½, montowaï¿½, mocowaï¿½
+Alcove - alkowa, wnï¿½ka, nisza
+Torso - tuï¿½ï¿½w,tors, korpus, pierï¿½
+Sculpture - rzeï¿½ba, pomnik, figura
 Bust(bast) - popiersie, biust
 Mosaic - mazaika
 Elaborately - misternie, starannie, bogato, kunsztownie
-Skull - czaszka, ³eb, g³owa
+Skull - czaszka, ï¿½eb, gï¿½owa
 Rival - rywal
-Extract - wydobywaæ, wyodrêbniaæ
-Oppose - sprzeciwiæ siê, sprzeciwiaæ siê, przeciwdzia³aæ 
-Figure out -  dowiedzieæ siê, wymyœliæ, ustaliæ, zrozumieæ, znaleŸæ
+Extract - wydobywaï¿½, wyodrï¿½bniaï¿½
+Oppose - sprzeciwiï¿½ siï¿½, sprzeciwiaï¿½ siï¿½, przeciwdziaï¿½aï¿½ 
+Figure out -  dowiedzieï¿½ siï¿½, wymyï¿½liï¿½, ustaliï¿½, zrozumieï¿½, znaleï¿½ï¿½
 Delimiter - ogranicznik, separator
-Align(alain) - dostosowaæ, wyrównaæ, dopasowaæ
-Realign - przestawiaæ, przystroiæ, wyregulowaæ
-Concatenate - z³¹czyæ
-Redundant = unnessesery - zbêdny, nadmierny, niepotrzebny
-Misaligned Rows - nieprawid³owo wyrównane rzêdy
-Merge = connect = combine - po³¹czyæ, ³¹czyæ, scaliæ
-Append = join = attach = include- do³¹czyæ, dodaæ
-Valid = important - wa¿ny
-Warn - ostrzegaæ, ostrzec, uprzedziæ
-Year of completion - rok zakoñczenia
+Align(alain) - dostosowaï¿½, wyrï¿½wnaï¿½, dopasowaï¿½
+Realign - przestawiaï¿½, przystroiï¿½, wyregulowaï¿½
+Concatenate - zï¿½ï¿½czyï¿½
+Redundant = unnessesery - zbï¿½dny, nadmierny, niepotrzebny
+Misaligned Rows - nieprawidï¿½owo wyrï¿½wnane rzï¿½dy
+Merge = connect = combine - poï¿½ï¿½czyï¿½, ï¿½ï¿½czyï¿½, scaliï¿½
+Append = join = attach = include- doï¿½ï¿½czyï¿½, dodaï¿½
+Valid = important - waï¿½ny
+Warn - ostrzegaï¿½, ostrzec, uprzedziï¿½
+Year of completion - rok zakoï¿½czenia
 Duration - czas trwania
-Retain = keep = maintain - zachowywaæ, przechowywaæ, zatrzymaæ
-Elapse - up³yn¹æ, min¹æ
-Tenure  = term - kadencja, posadê
-Plain  = straight (strejt)- prosty, g³adki, jasny, czysty
-Raise - ponieœæ, wychowaæ, pozyskaæ
-Further  -  dalej, kolejny, dodatkowy, nastêpnie
+Retain = keep = maintain - zachowywaï¿½, przechowywaï¿½, zatrzymaï¿½
+Elapse - upï¿½ynï¿½ï¿½, minï¿½ï¿½
+Tenure  = term - kadencja, posadï¿½
+Plain  = straight (strejt)- prosty, gï¿½adki, jasny, czysty
+Raise - ponieï¿½ï¿½, wychowaï¿½, pozyskaï¿½
+Further  -  dalej, kolejny, dodatkowy, nastï¿½pnie
 That's not that far - to nie tak daleko
 Jupiter - jowisz
-Obviously(obwesli) - oszywiœcie, najwyraŸniej
+Obviously(obwesli) - oszywiï¿½cie, najwyraï¿½niej
 Obvious - ewidentny, oszywisty, sjasny, widoczny
-Carbon dioxide(daioxaid) - dwutlenek wêgla
-Revise  = change- zmieniæ, skorygowaæ, poprawiæ
-Wishlist - lista ¿yczeñ, listazakupowa
+Carbon dioxide(daioxaid) - dwutlenek wï¿½gla
+Revise  = change- zmieniï¿½, skorygowaï¿½, poprawiï¿½
+Wishlist - lista ï¿½yczeï¿½, listazakupowa
 Billing - rozliczenie, rachunek
-Cart wózek sklepowy, wóz
+Cart wï¿½zek sklepowy, wï¿½z
 Checkout - kasa
-Out of stock - produkt chwilowo niedostêny
-Shipment - przesy³ka, wysy³ka, dostawa, transport
+Out of stock - produkt chwilowo niedostï¿½ny
+Shipment - przesyï¿½ka, wysyï¿½ka, dostawa, transport
 In stock - na magazynie, na stanie
 Goods - towar, rzeczy, towary
-Gotta - muszê, chcê
-Gonna -  zrobiæ, bêdziesz 
-Wanna - chcê, chcesz
+Gotta - muszï¿½, chcï¿½
+Gonna -  zrobiï¿½, bï¿½dziesz 
+Wanna - chcï¿½, chcesz
 High-end - wysokiej klasy
 Pricey - drogi
-Daylight robbery - rozbój w bia³y dzieñ
-Pay top dolar - zap³acê najwy¿sz¹ cenê
-Break the bank - rozbiæ bank
-Clue - wskazówka, trop, œlad
-Inherent - nieod³¹czny, wrodony
-Ordinal - porz¹dkowy
-Adjust - dostosowaæ, dopasowaæ
-Release - uwolniæ, zwolniæ
-Shift - przesun¹æ, przenieœæ, zmieniæ, zmiana, dy¿ur
-Diviation - odchylenie, odstêpstwo
-Relative - wzglêdny, stosunkowy
-Stretch - rozci¹gn¹æ, rozprostowaæ
-Denote - oznaczyæ, okreœlenia
-Consider - rozwa¿yæ, uwa¿aæ, uznaæ
-Assign - przypisaæ
-Assume -  zak³adaæ, przyj¹æ, ponosiæ
-Sample - próbka, sample, próbkowaæ, skosztowaæ
-Circular - okr¹g³y, ko³owy, kolisty
-Introduce - wprowadziæ, przedstawiæ, przedsatwiæ
-Estimate - oszacowaæ, szacunek, oceniæ
-Forecast - progniza, przewidywaæ, prognostyk
-Demand - wymagaæ, rz¹daæ, popyt, wymaganie
-Relate - dotyczyæ, powi¹zaæ, wi¹zaæ, nawi¹zaæ
+Daylight robbery - rozbï¿½j w biaï¿½y dzieï¿½
+Pay top dolar - zapï¿½acï¿½ najwyï¿½szï¿½ cenï¿½
+Break the bank - rozbiï¿½ bank
+Clue - wskazï¿½wka, trop, ï¿½lad
+Inherent - nieodï¿½ï¿½czny, wrodony
+Ordinal - porzï¿½dkowy
+Adjust - dostosowaï¿½, dopasowaï¿½
+Release - uwolniï¿½, zwolniï¿½
+Shift - przesunï¿½ï¿½, przenieï¿½ï¿½, zmieniï¿½, zmiana, dyï¿½ur
+Diviation - odchylenie, odstï¿½pstwo
+Relative - wzglï¿½dny, stosunkowy
+Stretch - rozciï¿½gnï¿½ï¿½, rozprostowaï¿½
+Denote - oznaczyï¿½, okreï¿½lenia
+Consider - rozwaï¿½yï¿½, uwaï¿½aï¿½, uznaï¿½
+Assign - przypisaï¿½
+Assume -  zakï¿½adaï¿½, przyjï¿½ï¿½, ponosiï¿½
+Sample - prï¿½bka, sample, prï¿½bkowaï¿½, skosztowaï¿½
+Circular - okrï¿½gï¿½y, koï¿½owy, kolisty
+Introduce - wprowadziï¿½, przedstawiï¿½, przedsatwiï¿½
+Estimate - oszacowaï¿½, szacunek, oceniï¿½
+Forecast - progniza, przewidywaï¿½, prognostyk
+Demand - wymagaï¿½, rzï¿½daï¿½, popyt, wymaganie
+Relate - dotyczyï¿½, powiï¿½zaï¿½, wiï¿½zaï¿½, nawiï¿½zaï¿½
 Sine curve - krzywa sinisoidalna
-Degrade - degradowaæ, poni¿aæ, pogarszaæ
-Evenly - równomiernie, równo
-Explicitly - wyraŸnie, jednoznacznie, jawnie, wprost
-Sour - kwaœny
-Debt - d³ug
+Degrade - degradowaï¿½, poniï¿½aï¿½, pogarszaï¿½
+Evenly - rï¿½wnomiernie, rï¿½wno
+Explicitly - wyraï¿½nie, jednoznacznie, jawnie, wprost
+Sour - kwaï¿½ny
+Debt - dï¿½ug
 Mortgage - hipoteka, kredyt hipoteczny
 Subtle - subtelny, delikatny
 Thumb - kciuk
-Bury - pchowaæ, zakopaæ, chowaæ
+Bury - pchowaï¿½, zakopaï¿½, chowaï¿½
  Sword - miecz, szpada, ostrze
-Mischievous - z³oœliwy, psotny, figlarny, szkodliwy
-Schedule - harmonogram, plan, zaplanowaæ, umówiæ
-Epitome - uosobienie, typowy przyk³ad
+Mischievous - zï¿½oï¿½liwy, psotny, figlarny, szkodliwy
+Schedule - harmonogram, plan, zaplanowaï¿½, umï¿½wiï¿½
+Epitome - uosobienie, typowy przykï¿½ad
 Chick fick - woman films(romance, very emontional fims)
 Bromance - film for man ( about two good friends)
 Romcom - romantic comedy 
-Chase - goniæ, pogoniæ
+Chase - goniï¿½, pogoniï¿½
 Computationally - obliczeniowo, komputerowo
-Quantify - oszacowaæ, okreœliæ iloœciowo, zmierzyæ, obliczyæ
+Quantify - oszacowaï¿½, okreï¿½liï¿½ iloï¿½ciowo, zmierzyï¿½, obliczyï¿½
 Polynomial - wielomian
-Wide(³ajd) - szeroki, bogaty, rozleg³y
-Lead - prowadziæ, doprowadziæ
-Imposter - oszust, naœladowczyni
-Conversely - odwrotnie, wrêcz przeciwnie
-Corresponding - odpowiedni, analogiczny,odnoœny
+Wide(ï¿½ajd) - szeroki, bogaty, rozlegï¿½y
+Lead - prowadziï¿½, doprowadziï¿½
+Imposter - oszust, naï¿½ladowczyni
+Conversely - odwrotnie, wrï¿½cz przeciwnie
+Corresponding - odpowiedni, analogiczny,odnoï¿½ny
 Gathering - spotkanie, zgromadzenie
-Gather - zebraæ, zbieraæ, gromadziæ
-Enclose - do³¹czyæ, za³¹czyæ
-Notify - powiedzieæ, poinformowaæ
+Gather - zebraï¿½, zbieraï¿½, gromadziï¿½
+Enclose - doï¿½ï¿½czyï¿½, zaï¿½ï¿½czyï¿½
+Notify - powiedzieï¿½, poinformowaï¿½
 Landmark - zabytek, punkt orientacyjny, symbol
-Bustle - zge³k, gwar, rozgardiasz
+Bustle - zgeï¿½k, gwar, rozgardiasz
 Bustling - gwarny, ruchliwy
 Honest - szczery, uczciwy, rzetelny
 It is got such - to ma takie..., to jest tak... 
 Peaceful - spokojny, cuchy
-Crowd - t³um, publiczoœæ, ludzie
-Crowded - zat³oczone, przeludnione
+Crowd - tï¿½um, publiczoï¿½ï¿½, ludzie
+Crowded - zatï¿½oczone, przeludnione
 Issue - kwestia, problem, sprawa
-Quality - jakoœæ, poziom, cecha
+Quality - jakoï¿½ï¿½, poziom, cecha
 Wider - szeroki, szerszy
-Influence - wp³yw, wp³ywaæ, dzia³aæ, kszta³towaæ
-Certainly - z pewnoœci¹, na pewno, oczywiœcie, zdecydowanie
-Submit - z³o¿yæ, przedstawiæ, sk³adaæ
-Certain - pewieny, okreœlony, konkretny
-Imperceptible - niezauwa¿alny, niedostrzegalny
-Determine - ustaliæ, okreœliæ, decydowaæ
-Advance - zaliczka, rozwijaæ, awansowaæ
-Estimate - oszacowaæ, szacowaæ, oceniæ
-Intersect - przecinaæ siê, przecinaæ
-Lnequality - nierównoœæ
-Uneven  - nierówno
+Influence - wpï¿½yw, wpï¿½ywaï¿½, dziaï¿½aï¿½, ksztaï¿½towaï¿½
+Certainly - z pewnoï¿½ciï¿½, na pewno, oczywiï¿½cie, zdecydowanie
+Submit - zï¿½oï¿½yï¿½, przedstawiï¿½, skï¿½adaï¿½
+Certain - pewieny, okreï¿½lony, konkretny
+Imperceptible - niezauwaï¿½alny, niedostrzegalny
+Determine - ustaliï¿½, okreï¿½liï¿½, decydowaï¿½
+Advance - zaliczka, rozwijaï¿½, awansowaï¿½
+Estimate - oszacowaï¿½, szacowaï¿½, oceniï¿½
+Intersect - przecinaï¿½ siï¿½, przecinaï¿½
+Lnequality - nierï¿½wnoï¿½ï¿½
+Uneven  - nierï¿½wno
 Implies - oznacza
-Imply - oznaczaæ, sugerowaæ, implikowaæ, wskazywaæ
-Accessible- dostêpny
-Regardless - mimo to, obojêtne
-Whether - czy, zarówno
-Irrespective - bez wzglêdu
-Precedence - pierwszeñstwo, priorytet
-Layer - warstwa, pow³oka
-Leverage - wykorzystaæ, korzystaæ
-I vividly remember - doskonale pamiêtam 
-Got to (tell,go,talk) - muszê (powiedzieæ,iœæ,rozmawiaæ)
-Get rid of something - pozbyæ siê czegoœ
+Imply - oznaczaï¿½, sugerowaï¿½, implikowaï¿½, wskazywaï¿½
+Accessible- dostï¿½pny
+Regardless - mimo to, obojï¿½tne
+Whether - czy, zarï¿½wno
+Irrespective - bez wzglï¿½du
+Precedence - pierwszeï¿½stwo, priorytet
+Layer - warstwa, powï¿½oka
+Leverage - wykorzystaï¿½, korzystaï¿½
+I vividly remember - doskonale pamiï¿½tam 
+Got to (tell,go,talk) - muszï¿½ (powiedzieï¿½,iï¿½ï¿½,rozmawiaï¿½)
+Get rid of something - pozbyï¿½ siï¿½ czegoï¿½
 It is identical copy my work or my shoes 
-Highlight words - podkreœliæ (podœwietliæ) s³owa
+Highlight words - podkreï¿½liï¿½ (podï¿½wietliï¿½) sï¿½owa
 I rejected good job offer 
 Extension - rozszerzenie
 Very files have an extension after dot, for example name.py, name.js
 Python is highly performant(wysoko wydajny) programing language 
-Concern - obawa, troska, martwiæ siê, dotyczyæ
-Certain circumstances - pewnych okolicznoœciach
+Concern - obawa, troska, martwiï¿½ siï¿½, dotyczyï¿½
+Certain circumstances - pewnych okolicznoï¿½ciach
 Comprehensive - kompleksowy, wszechstronny, obszerny
-Anticipate - przewidywaæ, spodziewaæ, oczekiwaæ
-Involved - zaanga¿owany, zwi¹zany, uszestniczy
+Anticipate - przewidywaï¿½, spodziewaï¿½, oczekiwaï¿½
+Involved - zaangaï¿½owany, zwiï¿½zany, uszestniczy
 Function f.close() release files and save all changes
 Dump - it is throw  things(ball) in front of you  
-Appearance - wygl¹d, pojawienie, wstêp
-Appear - pojawiæ siê, wygl¹daæ, wystêpowaæ
-Resive -  zmieniæ, skorygowaæ
-Hedge  -  zabezpieczyæ
-To admit = confess - wyznaæ
+Appearance - wyglï¿½d, pojawienie, wstï¿½p
+Appear - pojawiï¿½ siï¿½, wyglï¿½daï¿½, wystï¿½powaï¿½
+Resive -  zmieniï¿½, skorygowaï¿½
+Hedge  -  zabezpieczyï¿½
+To admit = confess - wyznaï¿½
 an action to achieve a result = a strategy 
 to behaver as if something is true = to pretend - udawanie
 a situation where the results in very important = high stakes - wysoka stawka
-the water that comes from your skin when you are very hot = sweat - pociæ siê
-to give the main points = to summarise - podsumowaæ
+the water that comes from your skin when you are very hot = sweat - pociï¿½ siï¿½
+to give the main points = to summarise - podsumowaï¿½
 forms and documents = paperwork - papiery, dokumenty
 to make something into smaller parts = to break something down
 shut down = close, turn off
@@ -333,33 +333,33 @@ To get approval or permission from somebody to do something = to clear something
 somebody
 Websites and apps like Facebook, Twitter, and Instagram = social media
 In a funny or strange way because it's unexpected = ironically
-Different from = unlike (w odró¿nieniu od)
-To not get the benefits of = to miss out on (przegapiæ)
+Different from = unlike (w odrï¿½nieniu od)
+To not get the benefits of = to miss out on (przegapiï¿½)
 Needing something too much or in unhealthy way = addiction
-People who are the first to buy or use new technology = early adopters (pierwsze wdra¿eni )
-All the time without a break =  constantly (ci¹gle, nieustannie)
-To have no access to = to be cut off from (brak dostêpu do)
+People who are the first to buy or use new technology = early adopters (pierwsze wdraï¿½eni )
+All the time without a break =  constantly (ciï¿½gle, nieustannie)
+To have no access to = to be cut off from (brak dostï¿½pu do)
 In case of emergencies(awaryjnych) = w awaryjnej sytuacji 
 To come up with = coin = find a new thought of new thing
-To speak for itself = mówiæ za kogoœ
+To speak for itself = mï¿½wiï¿½ za kogoï¿½
 To secure funding  -  do zabezpieczenia finansowania
-To expand - poszerzyæ coœ
-To expand the range of services -  rozszerzyæ zakres us³ug
+To expand - poszerzyï¿½ coï¿½
+To expand the range of services -  rozszerzyï¿½ zakres usï¿½ug
 Someone who starts a business = the founder
 Many = numerous
-Already officially recognized and accepted  = pre-approved(wstêpnie zatwiedzone)
+Already officially recognized and accepted  = pre_approved(wstï¿½pnie zatwiedzone)
 Far away from towns of other populated places = a remote area(na odludziu)
 A difficult of challenging situation = a predicament(w trudnym sytuacji)
 Easy to understand or notice = obvious (oszywisty)
-Noise - odg³os dŸwiêk 
-Disturb - zak³óciæ, przeszkodziæ 
+Noise - odgï¿½os dï¿½wiï¿½k 
+Disturb - zakï¿½ï¿½ciï¿½, przeszkodziï¿½ 
 I feed my dog two times a day 
-Bland - md³y
-Dairy product  - nabia³
-Fry - sma¿yæ
-Nutritous - po¿ywny, syc¹cy
-Obesity - oty³oœæ
-Poultry - drób
+Bland - mdï¿½y
+Dairy product  - nabiaï¿½
+Fry - smaï¿½yï¿½
+Nutritous - poï¿½ywny, sycï¿½cy
+Obesity - otyï¿½oï¿½ï¿½
+Poultry - drï¿½b
 That you can replace them:
 Sounds like = is
 Moved in = come to live here
