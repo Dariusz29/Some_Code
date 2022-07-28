@@ -27,9 +27,9 @@ alteration
 suppose 
 murderer 
 ingredient 
-departed(departyd) 
+departed
 boarding 
-delayed(dilejt) 
+delayed
 gate change 
 cancelled 
 final call 
@@ -60,33 +60,33 @@ nap
 according 
 hang out 
 auxiliary 
-emphasis(emfesis) 
+emphasis
 annoying 
 unless 
 properly 
-wage(�ejcz) 
+wage
 related 
-camel(kanol) 
+camel
 spit 
 resentful 
 harsh 
 quantity 
 tick 
-radius(rejdious) 
+radius
 accompany 
 properties 
 abbreviation 
 refer 
 residential 
 steady 
-tight(tajt) 
+tight
 cumbersome 
 annual cost 
 lend 
-prove(pruw) 
-wisely (�ajsly)
+prove
+wisely 
 stick to 
-genre(�anr�a) 
+genre
 impact 
 reschedule 
 receive 
@@ -128,7 +128,7 @@ arrangement
 permission 
 thinner 
 broadcast 
-naughty (nadi)
+naughty 
 loudly 
 exhibit 
 artefact 
@@ -138,7 +138,7 @@ mount
 alcove 
 torso 
 sculpture 
-bust(bast) 
+bust
 mosaic 
 elaborately 
 skull 
@@ -147,7 +147,7 @@ extract
 oppose 
 figure out 
 delimiter 
-align(alain) 
+align
 realign 
 concatenate 
 redundant 
@@ -165,7 +165,7 @@ plain
 raise 
 further  
 jupiter 
-obviously(obwesli) 
+obviously
 obvious 
 revise  
 wishlist 
@@ -213,7 +213,7 @@ mortgage
 subtle 
 thumb 
 bury 
- sword 
+sword 
 mischievous 
 schedule 
 epitome 
@@ -224,7 +224,7 @@ chase
 computationally 
 quantify 
 polynomial 
-wide(�ajd) 
+wide
 lead 
 imposter 
 conversely 

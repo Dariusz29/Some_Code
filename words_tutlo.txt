@@ -46,9 +46,6 @@ Fairy - wr�ka, bajka, czarodziejka
 Annoy - denerwuj�cy, dra�liwy, wkurzy�, wkurza�
 Seem - wydawa� si�, wida�, wygl�da�
 Otherwise - inaczej, w przeciwnym razie 
-Really looking forward to seeing you! - naprawd� czekam na ciebie
-It's going to be so good to catch up finally - To b�dzie tak dobre, aby nasta� na koniec
-An end of term report - sprawdzenie ko�cowe
 Rarely - rzadko
 Seldom - rzadko, not often
 Often = frequently
@@ -96,7 +93,7 @@ Impact - wp�ywa�, wp�yw, skutek, uderzenie, znaczenie, dzia�anie
 Reschedule - przesun��, um�wi�, przenie��, przek�ada�, zmieni� termin
 Receive - otrzyma�, odbiera�, uzyska�
 Afford - zap�aci�, kupi�, zapewni�
-Doubt - zw�tpi�, w�tpi� ( I sometimes doubt in my skills and my ability or opportunity)
+Doubt - zw�tpi�, w�tpi� 
 Actively - aktywnie, czynnie, intesywnie
 Relatives(relatiws) - krewni, bliscy
 Investigate - zbada�, bada�, przeanalizowa� 
@@ -114,16 +111,6 @@ Advantageous - korzystny
 Advantage - zaleta, korzy��
 Excessively - nadmiernie, zbyt, przesadnie
 Spree - sza�, szale�stwo
-TO DO A LARGE AMOUNT OF SHOPPING = TO SHOP TILL YOU DROP
-CONVEYOR BELT = A MOVING BELT THAT TRANSPORTS OBJECTS
-TO BE A PERFECT SIZE AND SHAPE FOR SOMEONE = TO FIL LIKE A GLOVE
-TO BE THE MOST ADVENTAGOUS COMBINATION OF COST AND TO MEET CUSTOMER 
-REQUIREMENTS = TO BE VALUE FOR MONEY
-A PERSON ADDICTED TO SHOPPING = SHOPAHOLIC
-TO APPLY A SIGNIFICANT AMOUNT OF PRESSURE ON A PROSPECTIVE BUYER = TO GIVE 
-SOMEONE THE HARD SELL
-A PERSON WHO STEALS GOODS FROM A SHOP WHIE PRETENDING TO BE A CUSTOMER = 
-SHOPLIFTER
 OCTOPUS - o�mirnica
 Ostery - ostryga
 Salmon - �oso�
@@ -132,14 +119,6 @@ Prawns - krewetki
 Lobster - homar
 Fiddle - skrzypce
 Clound nine - w �i�dmym niebie
-Criminal = a person who breaks the law
-Steal = to take something without the permission or knowledge of the owner and keep it
-Shake hands = greet each someone or say goodbye by briefly joining hands moving them 
-slightly up and down
-Diet = an eating plan in which someone eats less food, or only particular types of food, 
-because they want to become thinner or for medical reasons
-Series = a set of television or radio broadcasts on the same subject or using the same 
-characters but in different situations
 Briefly - kr�tko, pokr�tce, zwi�le, pobie�nie
 Arrangement - uk�ad, aran�acja, umowa,ustalenie
 Permission - zgoda, pozwolenie, uprawnienie
@@ -258,7 +237,6 @@ Landmark - zabytek, punkt orientacyjny, symbol
 Bustle - zge�k, gwar, rozgardiasz
 Bustling - gwarny, ruchliwy
 Honest - szczery, uczciwy, rzetelny
-It is got such - to ma takie..., to jest tak... 
 Peaceful - spokojny, cuchy
 Crowd - t�um, publiczo��, ludzie
 Crowded - zat�oczone, przeludnione
@@ -292,65 +270,20 @@ It is identical copy my work or my shoes
 Highlight words - podkre�li� (pod�wietli�) s�owa
 I rejected good job offer 
 Extension - rozszerzenie
-Very files have an extension after dot, for example name.py, name.js
-Python is highly performant(wysoko wydajny) programing language 
 Concern - obawa, troska, martwi� si�, dotyczy�
 Certain circumstances - pewnych okoliczno�ciach
 Comprehensive - kompleksowy, wszechstronny, obszerny
 Anticipate - przewidywa�, spodziewa�, oczekiwa�
 Involved - zaanga�owany, zwi�zany, uszestniczy
-Function f.close() release files and save all changes
-Dump - it is throw  things(ball) in front of you  
 Appearance - wygl�d, pojawienie, wst�p
 Appear - pojawi� si�, wygl�da�, wyst�powa�
 Resive -  zmieni�, skorygowa�
 Hedge  -  zabezpieczy�
-To admit = confess - wyzna�
-an action to achieve a result = a strategy 
-to behaver as if something is true = to pretend - udawanie
-a situation where the results in very important = high stakes - wysoka stawka
-the water that comes from your skin when you are very hot = sweat - poci� si�
-to give the main points = to summarise - podsumowa�
-forms and documents = paperwork - papiery, dokumenty
-to make something into smaller parts = to break something down
+To admit = wyzna�
 shut down = close, turn off
-struggle = fight, problem
-I can't think = My brain shuts down
-I won't be upset = I can take it 
-I wanted to escape = I wanted to get out of it
-I was really nervous or afraid = I come out I a cold sweat
-I still don't understand = I'm still lost
-I understand what you're saying = I get you
-Delusion -  it is something different it than it is real
-Slamming door - strong and fast close a door
-The material used to protect goods and present them to the customer = packaging 
-(opakowanie)
-The process of producing or improving a product to suit customers' needs = product design 
-To introduce a product to the customers for the first tame = to lunch a product
-To be good at noticing the smaller but important parts of things = to have a good eye for detail
-To discuss something carefully and in detail = to talk through something
-To get approval or permission from somebody to do something = to clear something with 
-somebody
-Websites and apps like Facebook, Twitter, and Instagram = social media
-In a funny or strange way because it's unexpected = ironically
-Different from = unlike (w odr�nieniu od)
-To not get the benefits of = to miss out on (przegapi�)
-Needing something too much or in unhealthy way = addiction
-People who are the first to buy or use new technology = early adopters (pierwsze wdra�eni )
-All the time without a break =  constantly (ci�gle, nieustannie)
-To have no access to = to be cut off from (brak dost�pu do)
-In case of emergencies(awaryjnych) = w awaryjnej sytuacji 
-To come up with = coin = find a new thought of new thing
-To speak for itself = m�wi� za kogo�
-To secure funding  -  do zabezpieczenia finansowania
+struggle = fight, problem 
 To expand - poszerzy� co�
-To expand the range of services -  rozszerzy� zakres us�ug
-Someone who starts a business = the founder
 Many = numerous
-Already officially recognized and accepted  = pre_approved(wst�pnie zatwiedzone)
-Far away from towns of other populated places = a remote area(na odludziu)
-A difficult of challenging situation = a predicament(w trudnym sytuacji)
-Easy to understand or notice = obvious (oszywisty)
 Noise - odg�os d�wi�k 
 Disturb - zak��ci�, przeszkodzi� 
 I feed my dog two times a day 
@@ -360,10 +293,5 @@ Fry - sma�y�
 Nutritous - po�ywny, syc�cy
 Obesity - oty�o��
 Poultry - dr�b
-That you can replace them:
-Sounds like = is
-Moved in = come to live here
-Catch up = tell each other news about our lives
-Keep going = don't stop moving
-Let me know = tell me
-Looking forward to = I'm exited about
+
+
