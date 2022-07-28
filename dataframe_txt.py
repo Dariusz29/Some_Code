@@ -2,10 +2,11 @@
 t = open("words_tutlo.txt", "r")
 f = open('word.txt',"w")
 g = open('translated_word.txt','w')
-h = 
+h = open('translated_phases.txt','w')
 word_eng = []
 phases = []
 word_wrong = []
+
 
 for w in t:
     if "=" in w:
@@ -23,6 +24,8 @@ for i in word_eng:
         f.write(i)
         f.write('\n')
     else:
+        h.write(i)
+        h.write('\n')
 
 
 
