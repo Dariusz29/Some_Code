@@ -1,0 +1,11 @@
+struggle = walka, problem, trudnosc, walczyc, zmagac, szarpac
+breathe = oddychac
+just = po prostu, tylko, wlasnie, zaledwie, tuz
+get over = przebolec, podejsc, przejechac, pokonac
+though = chociaz, jednak 
+anxiety = niepokoj, lek, obawa
+literally = doslownie
+dizzy =  zawroty glowy
+hyperventilate = hiperwnetylować
+deliberately = celowo, swiadomie, umyslnie, specjalnie
+instead of =  zamiast
