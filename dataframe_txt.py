@@ -6,13 +6,17 @@ word_in_eng = open('word_in_eng.txt',"w")
 word_answer = open('word_answer.txt','w')
 phases_in_eng = open('phases_in_eng.txt','w')
 phases_answer = open('phases_answer.txt', 'w')
+
+
 word_eng = []
 word_ans = []
 phases_eng = []
 phases_ans = []
 
 
+
 for w in word_sourse, word_sourse_:
+
     if "=" in w:
         data = w.split('=')
         word_eng.append(data[0].lower())
@@ -22,18 +26,18 @@ for w in word_sourse, word_sourse_:
         word_eng.append(data[0].lower())
         word_ans.append(data[1].lower())
     
-for w_ in phases_sourse:
-    if "=" in w:
+for w in phases_sourse:
+    if "=" in w :
         data = w.split('=')
         phases_eng.append(data[0].lower())
         phases_ans.append(data[1].lower())
-    elif "-" in w:
+    elif "-" in w :
         data = w.split('-')
         phases_eng.append(data[0].lower())
         phases_ans.append(data[1].lower())
 
-for i in word_eng, word_ans:
-    if word_eng == i:  
+for i in word_eng and word_ans:
+    if word_eng:
         word_in_eng.write(i)
         word_in_eng.write('\n')
     elif word_ans:
