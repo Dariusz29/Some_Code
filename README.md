@@ -10,3 +10,7 @@ Sunday, I still develop my mini game.
 # Date 01/08/2022
 
 Monday, I try write code of test to learn words in english, it will help me to faster improve my vocabulary.
+
+# Date 02/08/2022
+
+Today, I modified my code, I will write code of test, tomorrow.
