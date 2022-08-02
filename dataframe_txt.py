@@ -15,7 +15,18 @@ phases_ans = []
 
 
 
-for w in word_sourse, word_sourse_:
+for w in word_sourse:
+
+    if "=" in w:
+        data = w.split('=')
+        word_eng.append(data[0].lower())
+        word_ans.append(data[1].lower())
+    elif "-" in w:
+        data = w.split('-')
+        word_eng.append(data[0].lower())
+        word_ans.append(data[1].lower())
+
+for w in word_sourse_:
 
     if "=" in w:
         data = w.split('=')
@@ -36,23 +47,22 @@ for w in phases_sourse:
         phases_eng.append(data[0].lower())
         phases_ans.append(data[1].lower())
 
-for i in word_eng and word_ans:
-    if word_eng:
-        word_in_eng.write(i)
-        word_in_eng.write('\n')
-    elif word_ans:
-        word_answer.write(i)
-        word_answer.write('\n')
-   
+for i in word_eng:
+    word_in_eng.write(i)
+    word_in_eng.write('\n')
 
-for i in phases_eng, phases_ans:
-    if phases_eng:
-        phases_in_eng.write(i)
-        phases_in_eng.write('\n')
-    elif phases_ans:
-        phases_answer.write(i)
-        phases_answer.write('\n')
+for i in word_ans:
+    word_answer.write(i)
+     
 
+for i in phases_eng: 
+    phases_in_eng.write(i)
+    phases_in_eng.write('\n')
+
+for i in phases_ans:
+    phases_answer.write(i)
+    
+        
     
 
     
