@@ -71,6 +71,7 @@ class TEST():
     def start_test_word(i):
 
         for i in range(0,i):
+            print("")
 
 
 
