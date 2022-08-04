@@ -101,3 +101,28 @@ rear = back space in the carriage
 depart = leave vehicle from place
 approximately = around
 upon arrival = after arrive vehicle
+timeline = a plan for when things will happen and how long they will take
+a phase = one of the stages of a process
+agile = able to move quickly and easily
+the majority = most of the people in a group
+additional = something that is extra or more than planned
+to adapt = to change something to make it better or more successful
+best-selling book = successful book
+work-life balance = giving the right amount of time to work and to the rest of your life
+concept = idea
+overtime = working more than your normal work hours
+mobility = the ability to work from different places
+advantage = a positive thing about something
+to become less clear or visible = to fade
+freedom -being free to do what you want
+
+
+
+
+
+
+
+
+
+
+
