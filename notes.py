@@ -15,10 +15,11 @@
 # b = [1,4,6,7,8,9]
 # for i in a,b:
 #     c.append(i)
-from math import sqrt
-a = 0.508
-b = 0.312
+# from math import sqrt
+# a = 0.508
+# b = 0.312
 
-x = (a*2)**2 + (b*2)**2
+# x = (a*2)**2 + (b*2)**2
 
-print(sqrt(x)/2.54)
+# print(sqrt(x)/2.54)
+
