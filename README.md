@@ -14,3 +14,7 @@ Monday, I try write code of test to learn words in english, it will help me to f
 # Date 02/08/2022
 
 Today, I modified my code, I will write code of test, tomorrow.
+
+# Date 04/08/2022
+
+Today, I write a code of test, and modified data_words.py that i can choice which test will be executing in my main code.
