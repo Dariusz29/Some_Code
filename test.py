@@ -40,8 +40,10 @@ class TEST():
     
     def start_test_phase(i):
 
+        tt = sw('p')
+
         for i in range(0,i):
-            words = random.choice(sw)
+            words = random.choice(tt)
             num = sw.index(words)
             ans = input(f'Type translation {words} = ')
             word = (word == True for ans in words if words[:len(words)//2] == ans[len(ans)//2:])
@@ -70,9 +72,30 @@ class TEST():
 
     def start_test_word(i):
 
-        for i in range(0,i):
-            print("")
+        tt = sw('w')
 
+        for i in range(0,i):
+            words = random.choice(tt)
+            num = sw.index(words)
+            ans = input(f'Type translation {words} = ')
+            word = (word == True for ans in words if words[:len(words)//2] == ans[len(ans)//2:])
+
+            if ans == num:
+                print("""
+                Great answer!!!
+                Next word....""")
+
+            elif word:
+                print("""
+                Your answer is in half right.
+                Next word....""")
+                
+            elif ans != num:
+                print("""
+            Bad answer
+                Next word....""")
+                
+        print("Test is finish!")
 
 
 
