@@ -66,10 +66,6 @@ class TEST():
         print("Test is finish!")
               
 
-
-
-
-
     def start_test_word(i):
 
         tt = sw('w')
