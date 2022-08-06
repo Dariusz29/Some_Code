@@ -1,4 +1,4 @@
-# create grid to game in O or X
+# create grid to game in O and X
 
 from numpy import random
 
@@ -35,13 +35,24 @@ class Body():
         for i in range(1,4): 
 
             for j in range(1,4):
-                board = f'{pos_board[0 + j*i]}'
+                
+                if i == 2 and j == 1:
+                    n = i*j+2
+                elif i == 2 and j == 2:
+                    n = i*j+1
+                elif i == 3 and j == 1:
+                    n = i*j+4    
+                elif i == 3 and j == 2:
+                    n = i*j+2
+                else:
+                    n = i*j
+                    
+                board = f'{pos_board[n]}'
                 print(board, end= " ") 
-
             print()
 
     def choice():
-        list = ["X","O"]
+        
         _pos_ = [1,2,3,4,5,6,7,8,9]
 
         empty = bool(a for a in pos_board.values() if a != [])
@@ -54,65 +65,69 @@ class Body():
         right_up = bool(a for a in pos_board.keys() if pos_board[7] != ["X"] or ["O"])
         right_mid = bool(a for a in pos_board.keys() if pos_board[8] != ["X"] or ["O"])
         right_down = bool(a for a in pos_board.keys() if pos_board[9] != ["X"] or ["O"])
-        pos = [empty,left_up,left_mid,left_down,center_up,center,center_down,right_up,right_mid,right_down]
+        pos__ = [empty,left_up,left_mid,left_down,center_up,center,center_down,right_up,right_mid,right_down]
 
        
         for i in range(9):
-            ban = random.choice(list)
-            _pos = random.choice(_pos_)
+            if i % 2:
+                ban = 'X'
+            else:
+                ban = 'O'
             
-            if pos[0]:
+            _pos = random.choice(_pos_) # 2 = LM
+            
+            if pos__[0]:
                 pos_board[_pos].append(ban)
                 _pos_.remove(_pos)
                 
                 
 
-            elif pos[1] or _pos:
-                pos_board[_pos].append(ban)
-                _pos_.remove(_pos)
-                
-                
-
-            elif pos[2] or _pos:
-                pos_board[_pos].append(ban)
-                _pos_.remove(_pos)
+            elif pos__[1] and _pos:
+                    pos_board[_pos].append(ban)
+                    _pos_.remove(_pos)
+                    
                 
 
-            elif pos[3] or _pos:
+            elif pos__[2] and _pos:
                 pos_board[_pos].append(ban)
                 _pos_.remove(_pos)
                 
 
-            elif pos[4] or _pos:
+            elif pos__[3] and _pos:
                 pos_board[_pos].append(ban)
                 _pos_.remove(_pos)
                 
 
-            elif pos[5] or _pos:
+            elif pos__[4] and _pos:
+                pos_board[_pos].append(ban)
+                _pos_.remove(_pos)
+                
+
+            elif pos__[5] and _pos:
                 pos_board[_pos].append(ban)
                 _pos_.remove(_pos)
                 
               
 
-            elif pos[6] or _pos:
+            elif pos__[6] and _pos:
                 pos_board[_pos].append(ban)
                 _pos_.remove(_pos)
                 
                
 
-            elif pos[7] or _pos:
+            elif pos__[7] and _pos:
                 pos_board[_pos].append(ban)
                 _pos_.remove(_pos)
                 
              
 
-            elif pos[8] or _pos:
+            elif pos__[8] and _pos:
                 pos_board[_pos].append(ban)
                 _pos_.remove(_pos)
                 
              
 
-            elif pos[9] or _pos:
+            elif pos__[9] and _pos:
                 pos_board[_pos].append(ban)
                 _pos_.remove(_pos)
                 
