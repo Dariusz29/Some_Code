@@ -1,4 +1,4 @@
-# create grid to game in O and X
+# create grid to game in O or X
 
 from numpy import random
 
@@ -30,11 +30,7 @@ class Body():
         9:[]
     } 
 
-    def __init__(self):
-        pass
-        
-
-    def board(self):
+    def board():
         
         for i in range(1,4): 
 
@@ -44,7 +40,7 @@ class Body():
 
             print()
 
-    def choice(self):
+    def choice():
         list = ["X","O"]
         _pos_ = [1,2,3,4,5,6,7,8,9]
 
@@ -64,47 +60,69 @@ class Body():
         for i in range(9):
             ban = random.choice(list)
             _pos = random.choice(_pos_)
+            
             if pos[0]:
                 pos_board[_pos].append(ban)
                 _pos_.remove(_pos)
-
-            elif pos[1] and _pos:
-                pos_board[_pos].append(ban)
-                _pos_.remove(_pos)
-
-            elif pos[2] and _pos:
-                pos_board[_pos].append(ban)
-                _pos_.remove(_pos)
-
-            elif pos[3] and _pos:
-                pos_board[_pos].append(ban)
-                _pos_.remove(_pos)
-
-            elif pos[4] and _pos:
-                pos_board[_pos].append(ban)
-                _pos_.remove(_pos)
-
-            elif pos[5] and _pos:
-                pos_board[_pos].append(ban)
-                _pos_.remove(_pos)
-
-            elif pos[6] and _pos:
-                pos_board[_pos].append(ban)
-                _pos_.remove(_pos)
-
-            elif pos[7] and _pos:
-                pos_board[_pos].append(ban)
-                _pos_.remove(_pos)
-
-            elif pos[8] and _pos:
-                pos_board[_pos].append(ban)
-                _pos_.remove(_pos)
-
-            elif pos[9] and _pos:
-                pos_board[_pos].append(ban)
-                _pos_.remove(_pos)
-
                 
+                
+
+            elif pos[1] or _pos:
+                pos_board[_pos].append(ban)
+                _pos_.remove(_pos)
+                
+                
+
+            elif pos[2] or _pos:
+                pos_board[_pos].append(ban)
+                _pos_.remove(_pos)
+                
+
+            elif pos[3] or _pos:
+                pos_board[_pos].append(ban)
+                _pos_.remove(_pos)
+                
+
+            elif pos[4] or _pos:
+                pos_board[_pos].append(ban)
+                _pos_.remove(_pos)
+                
+
+            elif pos[5] or _pos:
+                pos_board[_pos].append(ban)
+                _pos_.remove(_pos)
+                
+              
+
+            elif pos[6] or _pos:
+                pos_board[_pos].append(ban)
+                _pos_.remove(_pos)
+                
+               
+
+            elif pos[7] or _pos:
+                pos_board[_pos].append(ban)
+                _pos_.remove(_pos)
+                
+             
+
+            elif pos[8] or _pos:
+                pos_board[_pos].append(ban)
+                _pos_.remove(_pos)
+                
+             
+
+            elif pos[9] or _pos:
+                pos_board[_pos].append(ban)
+                _pos_.remove(_pos)
+                
+                
+            Body.board()
+            print('\n')
+       
+        print('End Game!!!')        
             
            
-Body.choice(Body.board(0))
+
+
+Body.choice()
