@@ -50,6 +50,27 @@ class Body():
                 board = f'{pos_board[n]}'
                 print(board, end= " ") 
             print()
+    
+    def rules(side):
+        x = ("X" or "O")
+        side = pos_board
+
+        if x == (pos_board[1] and pos_board[2] and pos_board[3]):
+            print('You win this game!')
+        elif x == (pos_board[4] and pos_board[5] and pos_board[6]):
+            print('You win this game!')
+        elif x == (pos_board[7] and pos_board[8] and pos_board[9]):
+            print('You win this game!')
+        elif x == (pos_board[1] and pos_board[4] and pos_board[7]):
+            print('You win this game!')
+        elif x == (pos_board[2] and pos_board[5] and pos_board[8]):
+            print('You win this game!')
+        elif x == (pos_board[3] and pos_board[6] and pos_board[9]):
+            print('You win this game!')
+        elif x == (pos_board[1] and pos_board[5] and pos_board[9]):
+            print('You win this game!')
+        elif x == (pos_board[3] and pos_board[5] and pos_board[7]):
+            print('You win this game!')
 
     def choice():
         
@@ -70,7 +91,12 @@ class Body():
         
 
         for i in range(0,9):
+            
             Body.board()
+
+            if Body.rules(pos_board):
+                break
+                
 
             if i % 2:
                 ban = 'X'
@@ -79,7 +105,7 @@ class Body():
             
             _pos = random.choice(_pos_) 
             
-            if pos__[0]:
+            if pos__[0]: 
                 pos_board[_pos].append(ban)
                 _pos_.remove(_pos)
                 
@@ -133,13 +159,19 @@ class Body():
             elif pos__[9] and _pos:
                 pos_board[_pos].append(ban)
                 _pos_.remove(_pos)
-                
+            
+            
                 
             
             print('\n')
         Body.board()
        
-        print('End Game!!!')        
+        print('End Game!!!')      
+
+    
+
+
+
             
            
 
