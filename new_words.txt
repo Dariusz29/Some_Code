@@ -32,3 +32,8 @@ respectively = odpowiedno, kolejno
 recall = pamientac, przypomniec sobie
 essentially =  zasadniczo, glownie
 tedious = nudny
+bribing = przekupstwo
+bribe = łapówka
+cutlery = sztucce
+quilt = kołdra
+

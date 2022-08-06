@@ -23,3 +23,36 @@
 
 # print(sqrt(x)/2.54)
 
+pos_board = {
+        1:[1], 
+        2:[2],
+        3:[3],
+        4:[4],
+        5:[5],
+        6:[6],
+        7:[7],
+        8:[8],
+        9:[9]
+    } 
+
+for i in range(1,4): 
+
+    for j in range(1,4):
+        
+        if i == 2 and j == 1:
+            n = i*j+2
+        elif i == 2 and j == 2:
+            n = i*j+1
+        elif i == 3 and j == 1:
+            n = i*j+4    
+        elif i == 3 and j == 2:
+            n = i*j+2
+        else:
+            n = i*j
+
+
+        board = f'{pos_board[n]}'
+        print(board, end= " ") 
+    print()
+
+

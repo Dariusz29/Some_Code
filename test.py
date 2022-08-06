@@ -64,8 +64,9 @@ class TEST():
                 Next word....""")
                 
         print("Test is finish!")
-              
 
+
+   
     def start_test_word(i):
 
         tt = sw('w')
