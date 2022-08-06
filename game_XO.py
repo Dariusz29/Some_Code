@@ -67,14 +67,17 @@ class Body():
         right_down = bool(a for a in pos_board.keys() if pos_board[9] != ["X"] or ["O"])
         pos__ = [empty,left_up,left_mid,left_down,center_up,center,center_down,right_up,right_mid,right_down]
 
-       
-        for i in range(9):
+        
+
+        for i in range(0,9):
+            Body.board()
+
             if i % 2:
                 ban = 'X'
             else:
                 ban = 'O'
             
-            _pos = random.choice(_pos_) # 2 = LM
+            _pos = random.choice(_pos_) 
             
             if pos__[0]:
                 pos_board[_pos].append(ban)
@@ -132,8 +135,9 @@ class Body():
                 _pos_.remove(_pos)
                 
                 
-            Body.board()
+            
             print('\n')
+        Body.board()
        
         print('End Game!!!')        
             
