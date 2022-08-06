@@ -29,6 +29,7 @@ class Body():
         8:[],
         9:[]
     } 
+   
 
     def board():
         
@@ -51,9 +52,9 @@ class Body():
                 print(board, end= " ") 
             print()
     
-    def rules(side):
+    def rules():
         x = ("X" or "O")
-        side = pos_board
+        
 
         if x == (pos_board[1] and pos_board[2] and pos_board[3]):
             print('You win this game!')
@@ -94,14 +95,13 @@ class Body():
             
             Body.board()
 
-            if Body.rules(pos_board):
-                break
-                
 
+
+            
             if i % 2:
-                ban = 'X'
+                ban = "X"
             else:
-                ban = 'O'
+                ban = "O"
             
             _pos = random.choice(_pos_) 
             
