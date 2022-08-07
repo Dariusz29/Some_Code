@@ -23,43 +23,84 @@
 
 # print(sqrt(x)/2.54)
 
-pos_board = {
-        1:["X"], 
-        2:["X"],
-        3:["X"],
-        4:[4],
-        5:[5],
-        6:[6],
-        7:[7],
-        8:[8],
-        9:[9]
-    } 
+# pos_board = {
+#         1:["X"], 
+#         2:["X"],
+#         3:["X"],
+#         4:[4],
+#         5:[5],
+#         6:[6],
+#         7:[7],
+#         8:[8],
+#         9:[9]
+#     } 
+# # def rules():
+# #     x = ("X" or "O")
+    
+
+# #     if (pos_board[1] and pos_board[2] and pos_board[3])==x:
+# #         print('You win this game!')
+# #     elif x == (pos_board[4] and pos_board[5] and pos_board[6]):
+# #         print('You win this game!')
+# #     elif x == (pos_board[7] and pos_board[8] and pos_board[9]):
+# #         print('You win this game!')
+# #     elif x == (pos_board[1] and pos_board[4] and pos_board[7]):
+# #         print('You win this game!')
+# #     elif x == (pos_board[2] and pos_board[5] and pos_board[8]):
+# #         print('You win this game!')
+# #     elif x == (pos_board[3] and pos_board[6] and pos_board[9]):
+# #         print('You win this game!')
+# #     elif x == (pos_board[1] and pos_board[5] and pos_board[9]):
+# #         print('You win this game!')
+# #     elif x == (pos_board[3] and pos_board[5] and pos_board[7]):
+# #         print('You win this game!')
+
+
+# # x = ["X"] or ["O"]
+# # z = list(pos_board.values())    
+# # print(z[3])
+# # print(z[3] == x)
+# # if z[0]==x and z[1]==x and z[2]==x:
+# #     print('You win this game!')
+
 # def rules():
-#     x = ("X" or "O")
-    
+#         x = ["X"] or ["O"]
+#         z = list(pos_board.values())
+        
 
-#     if (pos_board[1] and pos_board[2] and pos_board[3])==x:
-#         print('You win this game!')
-#     elif x == (pos_board[4] and pos_board[5] and pos_board[6]):
-#         print('You win this game!')
-#     elif x == (pos_board[7] and pos_board[8] and pos_board[9]):
-#         print('You win this game!')
-#     elif x == (pos_board[1] and pos_board[4] and pos_board[7]):
-#         print('You win this game!')
-#     elif x == (pos_board[2] and pos_board[5] and pos_board[8]):
-#         print('You win this game!')
-#     elif x == (pos_board[3] and pos_board[6] and pos_board[9]):
-#         print('You win this game!')
-#     elif x == (pos_board[1] and pos_board[5] and pos_board[9]):
-#         print('You win this game!')
-#     elif x == (pos_board[3] and pos_board[5] and pos_board[7]):
-#         print('You win this game!')
+#         if z[1] == x and z[2] == x and z[3]:
+#             print('You win this game!')
+#         elif z[4] == x and z[5] == x and z[6]:
+#             print('You win this game!')
+#         elif z[7] == x and z[8] == x and z[9]:
+#             print('You win this game!')
+#         elif z[1] == x and z[4] == x and z[7]:
+#             print('You win this game!')
+#         elif z[2] == x and z[5] == x and z[8]:
+#             print('You win this game!')
+#         elif z[3] == x and z[6] == x and z[9]:
+#             print('You win this game!')
+#         elif z[1] == x and z[5] == x and z[9]:
+#             print('You win this game!')
+#         elif z[3] == x and z[5] == x and z[7]:
+#             print('You win this game!')
 
-
-x = "X" or "O"
-    
-
-if pos_board[1]==x and pos_board[2]==x and pos_board[3]==x:
-    print('You win this game!')
-z = pos_board.values()
-print( z(1) == "X" )
+# a  = {
+#         1:["X"], 
+#         2:["X"],
+#         3:["X"],
+#         4:[4],
+#         5:[5],
+#         6:[6],
+#         7:[7],
+#         8:[8],
+#         9:[9]
+#     } 
+# c = True
+# while c:
+#     for i in a:
+#         print(i)
+#         if a.index(2) == 3:
+#             c = False
+#             break
+# 
