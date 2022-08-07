@@ -53,28 +53,32 @@ class Body():
             print()
     
     def rules():
-        x = ("X" or "O")
+        x = ["X"] or ["O"]
+        z = list(pos_board.values())
         
 
-        if x == (pos_board[1] and pos_board[2] and pos_board[3]):
+        if z[1] == x and z[2] == x and z[3]:
             print('You win this game!')
-        elif x == (pos_board[4] and pos_board[5] and pos_board[6]):
+            breakpoint
+            
+        elif z[4] == x and z[5] == x and z[6]:
             print('You win this game!')
-        elif x == (pos_board[7] and pos_board[8] and pos_board[9]):
+        elif z[7] == x and z[8] == x and z[9]:
             print('You win this game!')
-        elif x == (pos_board[1] and pos_board[4] and pos_board[7]):
+        elif z[1] == x and z[4] == x and z[7]:
             print('You win this game!')
-        elif x == (pos_board[2] and pos_board[5] and pos_board[8]):
+        elif z[2] == x and z[5] == x and z[8]:
             print('You win this game!')
-        elif x == (pos_board[3] and pos_board[6] and pos_board[9]):
+        elif z[3] == x and z[6] == x and z[9]:
             print('You win this game!')
-        elif x == (pos_board[1] and pos_board[5] and pos_board[9]):
+        elif z[1] == x and z[5] == x and z[9]:
             print('You win this game!')
-        elif x == (pos_board[3] and pos_board[5] and pos_board[7]):
+        elif z[3] == x and z[5] == x and z[7]:
             print('You win this game!')
+        
 
     def choice():
-        
+        a = True
         _pos_ = [1,2,3,4,5,6,7,8,9]
 
         empty = bool(a for a in pos_board.values() if a != [])
@@ -94,10 +98,13 @@ class Body():
         for i in range(0,9):
             
             Body.board()
+            if Body.rules():
+                print("END!!!")
+                
 
 
 
-            
+
             if i % 2:
                 ban = "X"
             else:
@@ -160,10 +167,11 @@ class Body():
                 pos_board[_pos].append(ban)
                 _pos_.remove(_pos)
             
-            
+           
                 
             
             print('\n')
+        
         Body.board()
        
         print('End Game!!!')      
