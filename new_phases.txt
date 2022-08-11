@@ -121,10 +121,10 @@ to lose track of = to forget about
 concetration = the process of giving all of your attention to something
 psychologist = someone who studies the human mind
 state = the physical or mental condition of a person at a specific time
-
-
-
-
+cells = The smallest part of an animal or plant that can work independently. All plants and animals are made of these
+bacteria = The simplest and smallest forms of life. They live in air, water, soil, as well as in humans and animals (dead or alive). They are often the cause of disease
+mites = Very tiny creatures that live on plants or animals
+atom = The smallest part of a chemical element
 
 
 

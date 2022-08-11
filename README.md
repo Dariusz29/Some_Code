@@ -18,3 +18,7 @@ Today, I modified my code, I will write code of test, tomorrow.
 # Date 04/08/2022
 
 Today, I write a code of test, and modified data_words.py that i can choice which test will be executing in my main code.
+
+# Date 11/08/2022
+
+Thursday, i write next code to my script of exam to learn words in english. 
