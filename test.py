@@ -22,6 +22,7 @@ def kind_test():
 
         test = input('Which are you choice test? ')
         n = input('How much words or phases are you learn in the TEST? ')
+
         if test == 'TEST_1':
             TEST.start_test_word(n)
             break
@@ -68,6 +69,8 @@ class TEST():
 
 
 # feature to exam with words
+# wrong examine translations
+# in data are lot of wrong connecting word with answer
     def start_test_word(i):
 
         sw('w')
@@ -78,8 +81,11 @@ class TEST():
         for i in range(0,int(i)):
             words = random.choice(ww)
             num = ww.index(words)
+            print(num+1)
             ans = input(f'Type translation {words} = ')
-            word = (word == True for ans in words if words[:len(words)//2] == ans[len(ans)//2:])
+            print(ans)
+            word = (word == True for ans in words if words[:len(num+1)//2] == ans[len(num+1)//2:])
+            print(word)
 
             if ans == num:
                 print("""
@@ -102,8 +108,6 @@ class TEST():
 while True:
 
     kind_test()
-    TEST().start_test_word()
-
     break
 
 
