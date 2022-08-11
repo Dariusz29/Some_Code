@@ -15,6 +15,7 @@ phases_ans = []
 
 def store_word(resp):
 
+
    
     def wordss():
     
@@ -46,6 +47,9 @@ def store_word(resp):
 
         for i in word_ans:
             word_answer.write(i)
+        
+        word_in_eng.close()
+        word_answer.close()
 
 
     def phass():  
@@ -67,25 +71,20 @@ def store_word(resp):
 
         for i in phases_ans:
             phases_answer.write(i)
+        
+        phases_in_eng.close()
+        phases_answer.close()   
 
 
     if resp == 'w':
-        return wordss()
+        wordss()
     elif resp == 'p':
-        return phass()
+        phass()
 
 
-    
 
 
-        
-            
-        
 
-        
-word_in_eng.close()
-word_answer.close()
-phases_in_eng.close()
-phases_answer.close()
+store_word("p")
 
 

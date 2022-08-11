@@ -4,7 +4,7 @@ import random
 
 
 
-
+# Main of exam
 def kind_test(test):
     while True:
         input("""
@@ -34,7 +34,7 @@ def kind_test(test):
             break
 
 
-
+# feature to take exam with phases
 class TEST():
 
     
@@ -66,7 +66,7 @@ class TEST():
         print("Test is finish!")
 
 
-
+# feature to exam with words
     def start_test_word(i):
 
         tt = sw('w')
