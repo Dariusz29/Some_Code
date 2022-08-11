@@ -80,11 +80,3 @@ def store_word(resp):
         wordss()
     elif resp == 'p':
         phass()
-
-
-
-
-
-store_word("p")
-
-
