@@ -125,8 +125,11 @@ cells = The smallest part of an animal or plant that can work independently. All
 bacteria = The simplest and smallest forms of life. They live in air, water, soil, as well as in humans and animals (dead or alive). They are often the cause of disease
 mites = Very tiny creatures that live on plants or animals
 atom = The smallest part of a chemical element
-
-
+good recycling = disposing of trash properly
+trash = garbage
+silly = stupid
+oatmeal = owsianka
+sandcastle = zamek z piasku
 
 
 
