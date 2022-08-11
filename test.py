@@ -11,9 +11,8 @@ def kind_test():
         Learn english words = TEST_1
         Learn english phases = TEST_2
         \n
-        """)
-        input(""" 
         Number learn words or phases:
+
         1. 5
         2. 10
         3. 15
@@ -40,28 +39,30 @@ class TEST():
     
     def start_test_phase(i):
 
-        tt = sw('p')
+        sw('p')
+        with open('phases_in_eng.txt', 'r') as pp:
+            pp = list(pp)
 
-        for i in range(0,i):
-            words = random.choice(tt)
-            num = sw.index(words)
+        for i in range(i):
+            words = random.choice(pp)
+            num = pp.index(words)
             ans = input(f'Type translation {words} = ')
             word = (word == True for ans in words if words[:len(words)//2] == ans[len(ans)//2:])
 
             if ans == num:
                 print("""
                 Great answer!!!
-                Next word....""")
+                Next phase....""")
 
             elif word:
                 print("""
                 Your answer is in half right.
-                Next word....""")
+                Next phase....""")
                 
             elif ans != num:
                 print("""
             Bad answer
-                Next word....""")
+                Next phase....""")
                 
         print("Test is finish!")
 
@@ -101,7 +102,7 @@ class TEST():
 while True:
 
     kind_test()
-    TEST().start_test_phase()
+    TEST().start_test_word()
 
     break
 
