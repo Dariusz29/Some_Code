@@ -5,7 +5,7 @@ import random
 
 
 # Main of exam
-def kind_test(test):
+def kind_test():
     while True:
         input("""
         Learn english words = TEST_1
@@ -69,11 +69,14 @@ class TEST():
 # feature to exam with words
     def start_test_word(i):
 
-        tt = sw('w')
+        sw('w')
+        with open('word_in_eng.txt', 'r') as ww:
+            ww = list(ww)
 
-        for i in range(0,i):
-            words = random.choice(tt)
-            num = sw.index(words)
+
+        for i in range(0,int(i)):
+            words = random.choice(ww)
+            num = ww.index(words)
             ans = input(f'Type translation {words} = ')
             word = (word == True for ans in words if words[:len(words)//2] == ans[len(ans)//2:])
 
@@ -95,6 +98,11 @@ class TEST():
         print("Test is finish!")
 
 
+while True:
 
+    kind_test()
+    TEST().start_test_phase()
+
+    break
 
 
