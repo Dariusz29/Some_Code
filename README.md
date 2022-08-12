@@ -22,3 +22,7 @@ Today, I write a code of test, and modified data_words.py that i can choice whic
 # Date 11/08/2022
 
 Thursday, i write next code to my script of exam to learn words in english. 
+
+# Date 12/08/2022
+
+Friday, i continue my code of exam to learn words in english. I feel that i become loving more  a programing. :)
