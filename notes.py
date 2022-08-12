@@ -104,8 +104,35 @@
 #             c = False
 #             break
 # 
+import random
+ww = ["qwer", 'asdf', 'zxcvbnm']
+pp = ["rewq", 'fdsa', 'mnbvcxz']
+words = random.choice(ww)
+print(words)
+num_ww = ww.index(words)
+num_pp = num_ww
+print(num_ww, num_pp)
+ans = input(f'Type translation {words} = ')
+
+# if words[:len(ww[num_ww])//2] == ans[len(pp[num_pp])//2:]: 
+    
 
 
 
-   
-        
+
+if ans == pp[num_pp]:
+    print("""
+    Great answer!!!
+    Next phase....""")
+
+elif words[len(ww[num_ww])//2] == ans[len(pp[num_pp])//2]: 
+    print("""
+    Your answer is in half right.
+    Next phase....""")
+    
+else:
+    print("""
+    Bad answer
+    Next phase....""")
+            
+print("Test is finish!")
