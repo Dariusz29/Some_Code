@@ -114,25 +114,23 @@ num_pp = num_ww
 print(num_ww, num_pp)
 ans = input(f'Type translation {words} = ')
 
-# if words[:len(ww[num_ww])//2] == ans[len(pp[num_pp])//2:]: 
+
     
+for i, j in zip(pp[num_pp],ans):
 
+    if ans == pp[num_pp]:
+        print("""
+        Great answer!!!
+        Next phase....""")
 
-
-
-if ans == pp[num_pp]:
-    print("""
-    Great answer!!!
-    Next phase....""")
-
-elif words[len(ww[num_ww])//2] == ans[len(pp[num_pp])//2]: 
-    print("""
-    Your answer is in half right.
-    Next phase....""")
-    
-else:
-    print("""
-    Bad answer
-    Next phase....""")
-            
-print("Test is finish!")
+    elif i == j: 
+        print("""
+        Your answer is in half right.
+        Next phase....""")
+        
+    else:
+        print("""
+        Bad answer
+        Next phase....""")
+                
+    print("Test is finish!")
