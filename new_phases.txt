@@ -130,6 +130,8 @@ trash = garbage
 silly = stupid
 oatmeal = owsianka
 sandcastle = zamek z piasku
+just in case = na wszekli wypadek
+it looks as  = wygląda na 
 
 
 

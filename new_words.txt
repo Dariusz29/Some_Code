@@ -57,3 +57,6 @@ waste = odpad, marnowac, trwnoic
 littering = makes our planet dirty
 defend = bronic, obronic, chronic
 reliance = zaleznosc
+agenda = plan, program
+postpone = przelozyc, odlozyc
+looking forward = doczekac
