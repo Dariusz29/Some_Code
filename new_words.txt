@@ -55,4 +55,5 @@ intersection = przeciecie
 versatile = flexiable(wszechstronne, uniwersalne)
 waste = odpad, marnowac, trwnoic
 littering = makes our planet dirty
-
+defend = bronic, obronic, chronic
+reliance = zaleznosc
