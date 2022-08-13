@@ -76,31 +76,49 @@ class TEST():
         sw('w')
         with open('word_in_eng.txt', 'r') as ww:
             ww = list(ww)
+        with open('word_answer.txt') as an:
+            an = list(an)
 
 
         for i in range(0,int(i)):
             words = random.choice(ww)
-            num = ww.index(words)
-            print(num+1)
-            ans = input(f'Type translation {words} = ')
-            print(ans)
-            word = (word == True for ans in words if words[:len(num+1)//2] == ans[len(num+1)//2:])
-            print(word)
+            num_ww = ww.index(words)
+            num_an = num_ww
+            answer = input(f'Type translation {words} = ')    
+                 
+        
+            word = {}
+            ans = {}
+            check = []
 
-            if ans == num:
+            for i, v in enumerate(an[num_an]):
+                word[i] = v
+
+            for i, v in enumerate(answer):
+                ans[i] = v
+
+            for i in range(len(ans.keys())):
+
+                if word[i] == ans[i]:
+                    check.append(1)
+
+                else:
+                    check.append(0)
+
+            if sum(check) == len(word.keys()):
                 print("""
                 Great answer!!!
-                Next word....""")
+                Next word....""", an[num_an])
 
-            elif word:
+            elif sum(check) >= len(word.keys())//2:
                 print("""
                 Your answer is in half right.
-                Next word....""")
+                Next word....""",an[num_an])
                 
-            elif ans != num:
+            else:
                 print("""
-            Bad answer
-                Next word....""")
+                Bad answer
+                Next word....""",an[num_an])
                 
         print("Test is finish!")
 
