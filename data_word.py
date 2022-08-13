@@ -40,6 +40,9 @@ def store_word(resp):
                 data = w.split('-')
                 word_eng.append(data[0].lower())
                 word_ans.append(data[1].lower())
+        
+
+        
 
         for i in word_eng:
             word_in_eng.write(i)
