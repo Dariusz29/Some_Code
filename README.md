@@ -24,3 +24,6 @@ Friday, i continue my code of exam to learn words in english. I feel that i beco
 
 # Date 13/08/2022
 Saturday, i start next a day with programming. Today, i try to end my feature for learning words in english.
+
+# Date 15/08/2022
+Monday, i continue next day with programming.

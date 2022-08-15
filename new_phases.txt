@@ -6,9 +6,9 @@ a symptom = a sign you have an illness or health condition
 to hyperventilate = to breathe too fast, causing too much oxygen to enter the blood
 to spin =  to turn very fast
 a distraction = something that stops you from focusing on what you're doing
-Really looking forward to seeing you! - naprawd� czekam na ciebie
-It's going to be so good to catch up finally - To b�dzie tak dobre, aby nasta� na koniec
-An end of term report - sprawdzenie ko�cowe
+Really looking forward to seeing you! - naprawdę czekam na ciebie
+It's going to be so good to catch up finally - To bedzie tak dobre, aby nastać na koniec
+An end of term report - sprawdzenie koncowe
 TO DO A LARGE AMOUNT OF SHOPPING = TO SHOP TILL YOU DROP
 CONVEYOR BELT = A MOVING BELT THAT TRANSPORTS OBJECTS
 TO BE A PERFECT SIZE AND SHAPE FOR SOMEONE = TO FIL LIKE A GLOVE
@@ -27,8 +27,8 @@ Python is highly performant(wysoko wydajny) programing language
 an action to achieve a result = a strategy 
 to behaver as if something is true = to pretend - udawanie
 a situation where the results in very important = high stakes - wysoka stawka
-the water that comes from your skin when you are very hot = sweat - poci� si�
-to give the main points = to summarise - podsumowa�
+the water that comes from your skin when you are very hot = sweat - pocia sie
+to give the main points = to summarise - podsumować
 forms and documents = paperwork - papiery, dokumenty
 to make something into smaller parts = to break something down
 packaging  = The material used to protect goods and present them to the customer 
@@ -54,13 +54,13 @@ early adopters = People who are the first to buy or use new technology
 constantly = All the time without a break
 to be cut off from = To have no access to
 coin = To come up with
-m�wi� za kogo� = To speak for itself
+to speak for itself = mowic za kogos  
 pre_approved = Already officially recognized and accepted
 a remote area = Far away from towns of other populated places
 a predicament = A difficult of challenging situation
 obvious = Easy to understand or notice
 the founder = Someone who starts a business
-To expand the range of services = rozszerzy� zakres us�ug
+To expand the range of services = rozszerzyć zakres uslug
 Sounds like = is
 Moved in = come to live here
 Catch up = tell each other news about our lives
@@ -77,7 +77,7 @@ be surprised how common they are = dziwic sie jak czesto sa
 loads of people have them =  wiele osob ma je
 to sound weird =  brzemiec dziwnie
 so hear me out = sluchaj mnie
-may sound strange =  może brzmi dziwnie 
+may sound strange =  moze brzmi dziwnie 
 get used to = przywczaic sie do
 being scared =  bac sie, bycie przerazonym
 an assignment = a piece of work for school or university
@@ -131,7 +131,7 @@ silly = stupid
 oatmeal = owsianka
 sandcastle = zamek z piasku
 just in case = na wszekli wypadek
-it looks as  = wygląda na 
+it looks as  = wyglada na 
 
 
 

@@ -1,4 +1,7 @@
 
+from cmath import phase
+
+
 word_sourse = open("words_tutlo.txt", "r")
 word_sourse_ = open("new_words.txt", "r")
 phases_sourse = open("new_phases.txt", "r")
@@ -58,7 +61,8 @@ def store_word(resp):
     def phass():  
       
         for w in phases_sourse:
-
+            
+            
             if "=" in w :
                 data = w.split('=')
                 phases_eng.append(data[0].lower())
@@ -67,6 +71,7 @@ def store_word(resp):
                 data = w.split('-')
                 phases_eng.append(data[0].lower())
                 phases_ans.append(data[1].lower())
+    
 
         for i in phases_eng: 
             phases_in_eng.write(i)
@@ -75,6 +80,7 @@ def store_word(resp):
         for i in phases_ans:
             phases_answer.write(i)
         
+
         phases_in_eng.close()
         phases_answer.close()   
 
@@ -83,3 +89,6 @@ def store_word(resp):
         wordss()
     elif resp == 'p':
         phass()
+
+
+store_word('p')

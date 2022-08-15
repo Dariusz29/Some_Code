@@ -1,50 +1,50 @@
-Encompass - obejmowa�, obj��, zawiera�
-Storage - przechowywanie, magazynowa�, sk�adowane, pami��
+Encompass - obejmowac, objac, zawierac
+Storage - przechowywanie, magazynowac, skladowane, pamiec
 Infrastructure - infrastruktura, zaplecze
-Networking - sie�, wsp�praca, po��czenie
-Enterprise - przedsi�biorstwo, przeci�biorczo��, firma, korporacja
+Networking - sies, wspopraca, polaczenie
+Enterprise - przedsiebiorstwo, przeciebiorczosc, firma, korporacja
 Peripheral - obwodowy, peryferyjny
 Methodologies - metodologii, metody, metodyki
 Domain - domena, dziedzina, sferze
-Coin - uku�, wymy�li�
-Advantage - zaleta, przewaga, korzy��, plus, atut
-Melt - stopi�, topi�, rozpu�ci�
-Boil - gotowa�, zagotowa�, wrze�
-Evaporate - odparowa�, wyparowa�
-Independent - niezale�ny, samodzielny
+Coin - ukuc, wymyslic
+Advantage - zaleta, przewaga, korzysc, plus, atut
+Melt - stopic, topic, rozpuscic
+Boil - gotowac, zagotowac, wrzec
+Evaporate - odparowac, wyparowac
+Independent - niezalesny, samodzielny
 Addict - narkoman
-Addicted - uzale�niony
-Addiction - uzale�nienie
+Addicted - uzalezniony
+Addiction - uzaleznienie
 Hardly - ledwo, trudno 
-Affectionate - czu�y, kochaj�cy
+Affectionate - czucy, kochajacy
 Purring - mruczy, mruczenie
-Stroke - pog�aska�
-Curl up - zwija� si�, kuli� si�, zawin�� si�
-Longish - d�ugie
-Whizz - �miga�
-Slippery - �liski 
-Sewing(so�ing) machine - maszyna do szycia
-Alteration - zmiana, przebudowa, przer�bka 
-Suppose - przypuszczam, �e..., chyba, przypu��my, �e...
-Murderer - morderca, zab�jca
-Ingredient - sk�adnik, element, substancja
-Departed(departyd) - odesz�y, zmar�y
+Stroke - poglaskac
+Curl up - zwijac sie, kulic sie, zawinac sie
+Longish - dlugie
+Whizz - smigac
+Slippery - sliski 
+Sewing machine - maszyna do szycia
+Alteration - zmiana, przebudowa, przerobka 
+Suppose - przypuszczam, ze..., chyba, przypuscmy, ze...
+Murderer - morderca, zabojca
+Ingredient - skladnik, element, substancja
+Departed - odeszly, zmarly
 Boarding - odprawy
-Delayed(dilejt) - op�niony, sp�niony
+Delayed - opzniony, spzniony
 Gate change - zmiana bramki
 Cancelled - anulowany
 Final call - ostatnie wezwanie
 Rewarding - wynagrodzenie
-Demanding - wymagaj�cy
-Inspiring - inspiruj�cy
-Exhausting - wyczerpuj�cy 
+Demanding - wymagajacy
+Inspiring - inspirujacy
+Exhausting - wyczerpujacy 
 Responsible for - odpowiedzialny za...
 In charge of - odpowiedzialny za ..., dowodzi
-Deal with - radzi� sobie z, poradzi� sobie z 
-Manage - zarz�dza�, kierowa�, prowadzi�
-Fairy - wr�ka, bajka, czarodziejka
-Annoy - denerwuj�cy, dra�liwy, wkurzy�, wkurza�
-Seem - wydawa� si�, wida�, wygl�da�
+Deal with - radzic sobie z, poradzic sobie z 
+Manage - zarzadzac, kierowac, prowadzic
+Fairy - wroka, bajka, czarodziejka
+Annoy - denerwujacy, drazliwy, wkurzyc, wkurzac
+Seem - wydawac sie, widac, wygladac
 Otherwise - inaczej, w przeciwnym razie 
 Rarely - rzadko
 Seldom - rzadko, not often
@@ -59,239 +59,239 @@ Board game - any game in which you move objects around on a special board
 Stressed - worried and not able to relax
 Nap - a short sleep
 According - zgodnie, zgodny
-Hang out - posiedzie�, przebywa�, spotyka� si�
+Hang out - posiedziec, przebywac, spotykac sie
 Auxiliary - pomocniczy, dodatkowy
-Emphasis(emfesis) - nacisk, podkre�lenia
-Annoying - wkurzaj�ce, irytuj�ce, uci��liwy, niezno�ny	
-Unless - chyba, �e..., je�eli nie
-Properly - odpowiednio, prawid�owo
-Wage(�ejcz) - wynagrodzenie, p�aca
-Related - powi�zany
-Camel(kanol) - wielb��d 
-Spit - plu�
-Resentful - ura�ony, obra�ony, odrzucony
-Harsh - surowy, ostry, szorstki, nie mi�y
-Quantity - liczba, ilo��, sztuk, nak�ad
-Tick - kleszcz, tyka�, znaczenie
-Radius(rejdious) - zasi�g, promie�, obszar
+Emphasis - nacisk, podkreslenia
+Annoying - wkurzajace, irytujace, uciazliwy	
+Unless - chyba, ze..., jezeli nie
+Properly - odpowiednio, prawidlowo
+Wage - wynagrodzenie, placa
+Related - powiazany
+Camel(kanol) - wielblad 
+Spit - pluc
+Resentful - urazony, obrazony, odrzucony
+Harsh - surowy, ostry, szorstki, nie mily
+Quantity - liczba, ilosc, sztuk, naklad
+Tick - kleszcz, tykac, znaczenie
+Radius(rejdious) - zasieg, promien, obszar
 Multiline annotation - adnotacja wieloliniowa
-Accompany - towarzyszy�, oprowadzi�, do�aczy�
-Properties - w�a�ciwo�ci
-Abbreviation = shortcut - skr�t
-Refer - odno�ci si�, do��czy�, odnie�� si�
+Accompany - towarzyszyc, oprowadzic, dolaczyc
+Properties - wlasciwosci
+Abbreviation = shortcut - skrot
+Refer - odnosci sie, dolaczyc, odniesc sie
 Residential - mieszkaniowy
-Steady - sta�y, stabilny, ci�g�y
-Tight(Tajt) - cisany, napi�ty, obcis�y, szczelny
-Cumbersome - uci��liwy, k�opotliwy, niepor�czy
+Steady - staly, stabilny, ciagly
+Tight - cisany, napiety, obcisly, szczelny
+Cumbersome - uciazliwy, klopotliwy, nieporeczy
 Annual cost - roczny koszt
-Lend - po�ycza�, u�ycza�
-Prove(Pruw) - udowadni�, okaza�, dowie��
-Wisely (�ajsly)- m�drze, rozs�dnie, roztropnie
-Stick to - trzyma� si�, postrzega�
-Genre(�anr�a) - gatunek
-Impact - wp�ywa�, wp�yw, skutek, uderzenie, znaczenie, dzia�anie
-Reschedule - przesun��, um�wi�, przenie��, przek�ada�, zmieni� termin
-Receive - otrzyma�, odbiera�, uzyska�
-Afford - zap�aci�, kupi�, zapewni�
-Doubt - zw�tpi�, w�tpi� 
+Lend - pozyczac, uzyczac
+Prove(Pruw) - udowadnic, okazac, dowiesc
+Wisely - madrze, rozsadnie, roztropnie
+Stick to - trzymac sie, postrzegac
+Genre - gatunek
+Impact - wplywac, wplyw, skutek, uderzenie, znaczenie, dzialanie
+Reschedule - przesunsc, umowic, przeniesc, przekladac, zmienic termin
+Receive - otrzymac, odbierac, uzyskac
+Afford - zaplacic, kupic, zapewnic
+Doubt - zwatpic, watpic 
 Actively - aktywnie, czynnie, intesywnie
 Relatives(relatiws) - krewni, bliscy
-Investigate - zbada�, bada�, przeanalizowa� 
+Investigate - zbadac, badac, przeanalizowac 
 Dimension - wymiar, rozmiar
-Exceeding - przekroczenie, powy�ej
-Threshold - granica, pu�ap
-Therefore - dlatego , zatem, zwi�zku z tym
-Obtain - uzyska�, uzyskiwa�, zdoby�, pozyska�, otrzyma�
+Exceeding - przekroczenie, powyzej
+Threshold - granica, pulap
+Therefore - dlatego , zatem, zwiazku z tym
+Obtain - uzyskac, uzyskiwac, zdobyc, pozyskac, otrzymac
 Whereas - podczas gdy, tymczasem
-Intend - zamierza�, zamierzy� ( i intend to achieve my very goals at the year)
-Till you drop - do upad�ego, a� padniesz
-Shoplifter - z�odziej
-Combination - po�aczenie, kombinacja
+Intend - zamierzac, zamierzyc ( i intend to achieve my very goals at the year)
+Till you drop - do upadlego, az padniesz
+Shoplifter - zlodziej
+Combination - polaczenie, kombinacja
 Advantageous - korzystny
-Advantage - zaleta, korzy��
+Advantage - zaleta, korzysc
 Excessively - nadmiernie, zbyt, przesadnie
-Spree - sza�, szale�stwo
-OCTOPUS - o�mirnica
+Spree - szal, szalenstwo
+OCTOPUS - osmirnica
 Ostery - ostryga
-Salmon - �oso�
+Salmon - losos
 Scallop - przegrzebka
 Prawns - krewetki
 Lobster - homar
 Fiddle - skrzypce
-Clound nine - w �i�dmym niebie
-Briefly - kr�tko, pokr�tce, zwi�le, pobie�nie
-Arrangement - uk�ad, aran�acja, umowa,ustalenie
+Clound nine - w siodmym niebie
+Briefly - krotko, pokrotce, zwizle, pobieznie
+Arrangement - uklad, aranzacja, umowa,ustalenie
 Permission - zgoda, pozwolenie, uprawnienie
 Thinner - chudszy
 Broadcast - transmisja, audycja, przekaz
 Naughty (nadi)- niegrzeczny, nieprzyzwoity, niesforny
-Loudly - g�o�no, dono�nie, hucznie
-Exhibit - wystawa, wystawia�, eksponat, wykazywa�
+Loudly - glosno, donosnie, hucznie
+Exhibit - wystawa, wystawiac, eksponat, wykazywac
 Artefact - artefakt
-Antiquity(entik�iti) - staro�ytno��, antyk
+Antiquity - starosytnosc, antyk
 Relic - relikt
-Plinth - postument, cok�
-Mount - uchwyt, monta�, zamontowa�, montowa�, mocowa�
-Alcove - alkowa, wn�ka, nisza
-Torso - tu��w,tors, korpus, pier�
-Sculpture - rze�ba, pomnik, figura
+Plinth - postument, cokl
+Mount - uchwyt, montac, zamontowac, montowac, mocowac
+Alcove - alkowa, wneka, nisza
+Torso - tulow,tors, korpus, piers
+Sculpture - rzezba, pomnik, figura
 Bust(bast) - popiersie, biust
 Mosaic - mazaika
 Elaborately - misternie, starannie, bogato, kunsztownie
-Skull - czaszka, �eb, g�owa
+Skull - czaszka, leb, glowa
 Rival - rywal
-Extract - wydobywa�, wyodr�bnia�
-Oppose - sprzeciwi� si�, sprzeciwia� si�, przeciwdzia�a� 
-Figure out -  dowiedzie� si�, wymy�li�, ustali�, zrozumie�, znale��
+Extract - wydobywac, wyodrebniac
+Oppose - sprzeciwic sie, sprzeciwiac sie ,przeciwdzialac 
+Figure out -  dowiedziec siw, wymyslic ustalic, zrozumiec, znalezc
 Delimiter - ogranicznik, separator
-Align(alain) - dostosowa�, wyr�wna�, dopasowa�
-Realign - przestawia�, przystroi�, wyregulowa�
-Concatenate - z��czy�
-Redundant = unnessesery - zb�dny, nadmierny, niepotrzebny
-Misaligned Rows - nieprawid�owo wyr�wnane rz�dy
-Merge = connect = combine - po��czy�, ��czy�, scali�
-Append = join = attach = include- do��czy�, doda�
-Valid = important - wa�ny
-Warn - ostrzega�, ostrzec, uprzedzi�
-Year of completion - rok zako�czenia
+Align(alain) - dostosowac, wyrownac, dopasowac
+Realign - przestawiac, przystroic, wyregulowac
+Concatenate - zlaczyc
+Redundant = unnessesery - zbedny, nadmierny, niepotrzebny
+Misaligned Rows - nieprawidlowo wyrownane rzedy
+Merge = connect = combine - polaczyc, laczyc, scalic
+Append = join = attach = include- dolaczyc, dodac
+Valid = important - wazny
+Warn - ostrzegac, ostrzec, uprzedzic
+Year of completion - rok zakonczenia
 Duration - czas trwania
-Retain = keep = maintain - zachowywa�, przechowywa�, zatrzyma�
-Elapse - up�yn��, min��
-Tenure  = term - kadencja, posad�
-Plain  = straight (strejt)- prosty, g�adki, jasny, czysty
-Raise - ponie��, wychowa�, pozyska�
-Further  -  dalej, kolejny, dodatkowy, nast�pnie
+Retain = keep = maintain - zachowywac, przechowywac, zatrzymac
+Elapse - uplynsc, minal
+Tenure  = term - kadencja, posade
+Plain  = straight (strejt)- prosty, gladki, jasny, czysty
+Raise - poniesc, wychowac, pozyskac
+Further  -  dalej, kolejny, dodatkowy, nastepnie
 That's not that far - to nie tak daleko
 Jupiter - jowisz
-Obviously(obwesli) - oszywi�cie, najwyra�niej
+Obviously(obwesli) - oszywiscie, najwyrazniej
 Obvious - ewidentny, oszywisty, sjasny, widoczny
-Carbon dioxide(daioxaid) - dwutlenek w�gla
-Revise  = change- zmieni�, skorygowa�, poprawi�
-Wishlist - lista �ycze�, listazakupowa
+Carbon dioxide(daioxaid) - dwutlenek wegla
+Revise  = change- zmienic, skorygowac, poprawic
+Wishlist - lista zyczen, listazakupowa
 Billing - rozliczenie, rachunek
-Cart w�zek sklepowy, w�z
+Cart = wozek sklepowy, woz
 Checkout - kasa
-Out of stock - produkt chwilowo niedost�ny
-Shipment - przesy�ka, wysy�ka, dostawa, transport
+Out of stock - produkt chwilowo niedosteny
+Shipment - przesylka, wysylka, dostawa, transport
 In stock - na magazynie, na stanie
 Goods - towar, rzeczy, towary
-Gotta - musz�, chc�
-Gonna -  zrobi�, b�dziesz 
-Wanna - chc�, chcesz
+Gotta - musze, chce
+Gonna -  zrobic, bedziesz 
+Wanna - chce, chcesz
 High-end - wysokiej klasy
 Pricey - drogi
-Daylight robbery - rozb�j w bia�y dzie�
-Pay top dolar - zap�ac� najwy�sz� cen�
-Break the bank - rozbi� bank
-Clue - wskaz�wka, trop, �lad
-Inherent - nieod��czny, wrodony
-Ordinal - porz�dkowy
-Adjust - dostosowa�, dopasowa�
-Release - uwolni�, zwolni�
-Shift - przesun��, przenie��, zmieni�, zmiana, dy�ur
-Diviation - odchylenie, odst�pstwo
-Relative - wzgl�dny, stosunkowy
-Stretch - rozci�gn��, rozprostowa�
-Denote - oznaczy�, okre�lenia
-Consider - rozwa�y�, uwa�a�, uzna�
-Assign - przypisa�
-Assume -  zak�ada�, przyj��, ponosi�
-Sample - pr�bka, sample, pr�bkowa�, skosztowa�
-Circular - okr�g�y, ko�owy, kolisty
-Introduce - wprowadzi�, przedstawi�, przedsatwi�
-Estimate - oszacowa�, szacunek, oceni�
-Forecast - progniza, przewidywa�, prognostyk
-Demand - wymaga�, rz�da�, popyt, wymaganie
-Relate - dotyczy�, powi�za�, wi�za�, nawi�za�
+Daylight robbery - rozboj w bialy dzien
+Pay top dolar - zaplacic najwyzsza cene
+Break the bank - rozbic bank
+Clue - wskazowka, trop, slad
+Inherent - nieodlaczny, wrodony
+Ordinal - porzadkowy
+Adjust - dostosowac, dopasowac
+Release - uwolnic, zwolnic
+Shift - przesunac, przeniesc, zmienic, zmiana, dyzur
+Diviation - odchylenie, odstepstwo
+Relative - wzgledny, stosunkowy
+Stretch - rozciagnac, rozprostowac
+Denote - oznaczyc, okreslenia
+Consider - rozwazyc, uwazac, uznac
+Assign - przypisac
+Assume -  zakladac, przyjsc, ponosic
+Sample - probka, sample, probkowac, skosztowac
+Circular - okragly, kolowy, kolisty
+Introduce - wprowadzic, przedstawic, przedsatwic
+Estimate - oszacowac, szacunek, ocenic
+Forecast - progniza, przewidywac, prognostyk
+Demand - wymagac, rzadac, popyt, wymaganie
+Relate - dotyczyc, powiazac, wiazac, nawiazac
 Sine curve - krzywa sinisoidalna
-Degrade - degradowa�, poni�a�, pogarsza�
-Evenly - r�wnomiernie, r�wno
-Explicitly - wyra�nie, jednoznacznie, jawnie, wprost
-Sour - kwa�ny
-Debt - d�ug
+Degrade - degradowac, ponisac, pogarszac
+Equally - rownomiernie, rowno
+Explicitly - wyrażnie, jednoznacznie, jawnie, wprost
+Sour - kwasny
+Debt - dlug
 Mortgage - hipoteka, kredyt hipoteczny
 Subtle - subtelny, delikatny
 Thumb - kciuk
-Bury - pchowa�, zakopa�, chowa�
- Sword - miecz, szpada, ostrze
-Mischievous - z�o�liwy, psotny, figlarny, szkodliwy
-Schedule - harmonogram, plan, zaplanowa�, um�wi�
-Epitome - uosobienie, typowy przyk�ad
+Bury - pchowac, zakopac, chowac
+Sword - miecz, szpada, ostrze
+Mischievous - zlosliwy, psotny, figlarny, szkodliwy
+Schedule - harmonogram, plan, zaplanowac, umowic
+Epitome - uosobienie, typowy przyklad
 Chick fick - woman films(romance, very emontional fims)
 Bromance - film for man ( about two good friends)
 Romcom - romantic comedy 
-Chase - goni�, pogoni�
+Chase - gonic, pogonic
 Computationally - obliczeniowo, komputerowo
-Quantify - oszacowa�, okre�li� ilo�ciowo, zmierzy�, obliczy�
+Quantify - oszacowac, okreslic ilosciowo, zmierzyc, obliczyc
 Polynomial - wielomian
-Wide(�ajd) - szeroki, bogaty, rozleg�y
-Lead - prowadzi�, doprowadzi�
-Imposter - oszust, na�ladowczyni
-Conversely - odwrotnie, wr�cz przeciwnie
-Corresponding - odpowiedni, analogiczny,odno�ny
+Wide - szeroki, bogaty, rozlegly
+Lead - prowadzic, doprowadzic
+Imposter - oszust, nasladowczyni
+Conversely - odwrotnie, wrecz przeciwnie
+Corresponding - odpowiedni, analogiczny,odnosny
 Gathering - spotkanie, zgromadzenie
-Gather - zebra�, zbiera�, gromadzi�
-Enclose - do��czy�, za��czy�
-Notify - powiedzie�, poinformowa�
+Gather - zebrac, zbierac, gromadzic
+Enclose - dolaczyc, zalaczyc
+Notify - powiedziec, poinformowac
 Landmark - zabytek, punkt orientacyjny, symbol
-Bustle - zge�k, gwar, rozgardiasz
+Bustle - zgelk, gwar, rozgardiasz
 Bustling - gwarny, ruchliwy
 Honest - szczery, uczciwy, rzetelny
 Peaceful - spokojny, cuchy
-Crowd - t�um, publiczo��, ludzie
-Crowded - zat�oczone, przeludnione
+Crowd - tlum, publiczosc, ludzie
+Crowded - zatloczone, przeludnione
 Issue - kwestia, problem, sprawa
-Quality - jako��, poziom, cecha
+Quality - jakosc, poziom, cecha
 Wider - szeroki, szerszy
-Influence - wp�yw, wp�ywa�, dzia�a�, kszta�towa�
-Certainly - z pewno�ci�, na pewno, oczywi�cie, zdecydowanie
-Submit - z�o�y�, przedstawi�, sk�ada�
-Certain - pewieny, okre�lony, konkretny
-Imperceptible - niezauwa�alny, niedostrzegalny
-Determine - ustali�, okre�li�, decydowa�
-Advance - zaliczka, rozwija�, awansowa�
-Estimate - oszacowa�, szacowa�, oceni�
-Intersect - przecina� si�, przecina�
-Lnequality - nier�wno��
-Uneven  - nier�wno
+Influence - wplyw, wplywac, dzialac, ksztaltowac
+Certainly - z pewnoscia, na pewno, oczywiscie, zdecydowanie
+Submit - zlozyc, przedstawic, skladac
+Certain - pewieny, okreslony, konkretny
+Imperceptible - niezauwazalny, niedostrzegalny
+Determine - ustalic, okreslic, decydowac
+Advance - zaliczka, rozwijac, awansowac
+Estimate - oszacowac, szacowac, ocenic
+Intersect - przecinac sie, przecinac
+Lnequality - nierownosc
+Uneven  - nierowno
 Implies - oznacza
-Imply - oznacza�, sugerowa�, implikowa�, wskazywa�
-Accessible- dost�pny
-Regardless - mimo to, oboj�tne
-Whether - czy, zar�wno
-Irrespective - bez wzgl�du
-Precedence - pierwsze�stwo, priorytet
-Layer - warstwa, pow�oka
-Leverage - wykorzysta�, korzysta�
-I vividly remember - doskonale pami�tam 
-Got to (tell,go,talk) - musz� (powiedzie�,i��,rozmawia�)
-Get rid of something - pozby� si� czego�
+Imply - oznaczac, sugerowac, implikowac, wskazywac
+Accessible- dostepny
+Regardless - mimo to, obojetne
+Whether - czy, zarowno
+Irrespective - bez wzgledu
+Precedence - pierwszeestwo, priorytet
+Layer - warstwa, powloka
+Leverage - wykorzystac, korzystac
+I vividly remember - doskonale pamietam 
+Got to (tell,go,talk) - musze (powiedziec,isc,rozmawiac)
+Get rid of something - pozbyc sie czegos
 It is identical copy my work or my shoes 
-Highlight words - podkre�li� (pod�wietli�) s�owa
+Highlight words - podkreslic (podswietlic) slowa
 I rejected good job offer 
 Extension - rozszerzenie
-Concern - obawa, troska, martwi� si�, dotyczy�
-Certain circumstances - pewnych okoliczno�ciach
+Concern - obawa, troska, martwic sie, dotyczyc
+Certain circumstances - pewnych okolicznosciach
 Comprehensive - kompleksowy, wszechstronny, obszerny
-Anticipate - przewidywa�, spodziewa�, oczekiwa�
-Involved - zaanga�owany, zwi�zany, uszestniczy
-Appearance - wygl�d, pojawienie, wst�p
-Appear - pojawi� si�, wygl�da�, wyst�powa�
-Resive -  zmieni�, skorygowa�
-Hedge  -  zabezpieczy�
-To admit = wyzna�
+Anticipate - przewidywac, spodziewac, oczekiwac
+Involved - zaangazowany, zwiazany, uszestniczy
+Appearance - wyglad, pojawienie, wstep
+Appear - pojawic sie, wygladac, wystepowac
+Resive -  zmienic, skorygowac
+Hedge  -  zabezpieczyc
+To admit = wyznac
 shut down = close, turn off
 struggle = fight, problem 
-To expand - poszerzy� co�
+To expand - poszerzyc cos
 Many = numerous
-Noise - odg�os d�wi�k 
-Disturb - zak��ci�, przeszkodzi� 
+Noise - odglos dzwiek 
+Disturb - zaklocic, przeszkodzic 
 I feed my dog two times a day 
-Bland - md�y
-Dairy product  - nabia�
-Fry - sma�y�
-Nutritous - po�ywny, syc�cy
-Obesity - oty�o��
-Poultry - dr�b
+Bland - mdly
+Dairy product  - nabiac
+Fry - smazyc
+Nutritous - pozywny, sycacy
+Obesity - otylosc
+Poultry - drob
 
 
