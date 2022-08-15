@@ -132,7 +132,8 @@ oatmeal = owsianka
 sandcastle = zamek z piasku
 just in case = na wszekli wypadek
 it looks as  = wyglada na 
-
+chop wood = rabac drewno
+and this all matters = i to wszystko ma znaczenie
 
 
 

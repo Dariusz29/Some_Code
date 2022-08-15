@@ -60,3 +60,5 @@ reliance = zaleznosc
 agenda = plan, program
 postpone = przelozyc, odlozyc
 looking forward = doczekac
+insentive = zacheta
+evidence = dowod, zeznania

@@ -100,9 +100,6 @@ class Body():
             Body.board()
             if Body.rules():
                 print("END!!!")
-                
-
-
 
 
             if i % 2:
@@ -166,9 +163,6 @@ class Body():
             elif pos__[9] and _pos:
                 pos_board[_pos].append(ban)
                 _pos_.remove(_pos)
-            
-           
-                
             
             print('\n')
         
