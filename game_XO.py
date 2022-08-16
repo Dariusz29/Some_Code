@@ -58,9 +58,7 @@ class Body():
         
 
         if z[1] == x and z[2] == x and z[3]:
-            print('You win this game!')
-            breakpoint
-            
+            print('You win this game!')      
         elif z[4] == x and z[5] == x and z[6]:
             print('You win this game!')
         elif z[7] == x and z[8] == x and z[9]:
@@ -98,10 +96,7 @@ class Body():
         for i in range(0,9):
             
             Body.board()
-            if Body.rules():
-                print("END!!!")
-
-
+           
             if i % 2:
                 ban = "X"
             else:
@@ -167,6 +162,7 @@ class Body():
             print('\n')
         
         Body.board()
+        Body.rules()
        
         print('End Game!!!')      
 
