@@ -134,6 +134,14 @@ just in case = na wszekli wypadek
 it looks as  = wyglada na 
 chop wood = rabac drewno
 and this all matters = i to wszystko ma znaczenie
+trunout = the number of people who go to an organised event (such as an election)
+demographics = information about a group of people  
+polling station = a place where people go to vote in an election
+polling warning = when a company announces it will make less money than expected
+revenue = money that a business receives over a period of time
+gross margin = the difference between what something costs and how much it is sold for
+dividend = a part of a company's profits that are divided among the people who own it
+shareholder = a person who owns part of a company
 
 
 

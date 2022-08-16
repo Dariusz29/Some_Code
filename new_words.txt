@@ -68,3 +68,20 @@ unconditonally = bezwarunkowo
 enable = umozliwiac, wlaczyc,pozwalac
 raise = podniesc, wychowywac
 perform = wykonywac, przeprowadzic
+embed = osadzic, umiescic
+wrap = zawinac, owinac, zapakowac
+recent = ostatni
+crucial = kluczowy, wazny
+slight = niewielki
+despite = pomimo, mimo
+forecast = prognoza
+recall = pamietac, wspominac
+announce = oglosic, zapowiadac
+ultimately = ostatecznie, docelowo
+nationwide = ogolnokrajowy
+appealling = atrakcyjny
+althogether = calkowice, zupelnie
+
+
+
+
