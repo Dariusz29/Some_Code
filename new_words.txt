@@ -81,7 +81,11 @@ ultimately = ostatecznie, docelowo
 nationwide = ogolnokrajowy
 appealling = atrakcyjny
 althogether = calkowice, zupelnie
-
-
-
+hire = zatrudnic
+resolve = rozwiazac
+infer = wywnioskowac
+well-know = znany
+refrigerator = lodowka
+find out = dowiedziec sie
+junk = smieci
 
